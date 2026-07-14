@@ -639,7 +639,7 @@
     const DATA = JSON.parse(document.getElementById('q9-data').textContent);
     const $ = (s) => document.querySelector(s);
     const $$ = (s) => Array.from(document.querySelectorAll(s));
-    const norm = (s) => (s || '').toString().toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/đ/g,'d');
+    const norm = (s) => (s || '').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/đ/g,'d');
 
     const state = { q:'', stage:'all', gate:'all', group:'all', agency:'all', risk:'all', checkStage:'all', checkGate:'all', hideDone:false };
     let checked = JSON.parse(localStorage.getItem('q9_misa_style_checked') || '{}');
@@ -1315,7 +1315,7 @@ Quyết định này có hiệu lực kể từ ngày ký./.
     }
 
     function bind(){
-      const syncSearch = (val)=>{ state.q=val; $('#global-search').value=val; $('#search-step').value=val; renderTable(); };
+      const syncSearch = (val)=>{ state.q=val; $('#global-search').value=val; $('#search-step').value=val; renderTable(); if(val && val.length > 1) document.getElementById('lookup').scrollIntoView({behavior: 'smooth'}); };
       $('#global-search').addEventListener('input',e=>syncSearch(e.target.value));
       $('#search-step').addEventListener('input',e=>syncSearch(e.target.value));
       $('#filter-stage').onchange=e=>{state.stage=e.target.value; renderTable();};
