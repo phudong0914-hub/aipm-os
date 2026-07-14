@@ -1317,6 +1317,7 @@ Quyết định này có hiệu lực kể từ ngày ký./.
     function bind(){
       const syncSearch = (val)=>{ state.q=val; $('#global-search').value=val; $('#search-step').value=val; renderTable(); };
       $('#global-search').addEventListener('input',e=>syncSearch(e.target.value));
+      $('#global-search').addEventListener('keydown',e=>{ if(e.key==='Enter') document.getElementById('lookup').scrollIntoView({behavior: 'smooth'}); });
       $('#search-step').addEventListener('input',e=>syncSearch(e.target.value));
       $('#filter-stage').onchange=e=>{state.stage=e.target.value; renderTable();};
       $('#filter-gate').onchange=e=>{state.gate=e.target.value; $('#active-gate-pill').textContent = state.gate==='all' ? 'Tất cả Gate' : state.gate; renderFiltered();};
