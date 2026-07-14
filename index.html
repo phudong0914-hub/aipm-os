@@ -422,8 +422,9 @@
 <div class="search-actions">
   <div class="search-panel">
     <label>🔎 TRA CỨU SỔ TAY NỘI BỘ</label>
-    <div class="search">
-      <input id="global-search" placeholder="Tìm trong quy trình: quy hoạch, chủ trương, ĐTM, PCCC, thiết kế..." type="search" />
+    <div class="search" style="display:flex; gap:10px;">
+      <input id="global-search" placeholder="Nhập từ khóa (vd: chủ trương, ĐTM, PCCC)..." type="search" style="flex:1;" />
+      <button class="nav-btn active" id="btn-global-search" style="padding: 10px 20px; white-space: nowrap; border-radius: 8px; font-weight: bold;">Tra cứu ngay</button>
     </div>
   </div>
   <div class="search-panel tvpl-panel">
@@ -1318,6 +1319,7 @@ Quyết định này có hiệu lực kể từ ngày ký./.
       const syncSearch = (val)=>{ state.q=val; $('#global-search').value=val; $('#search-step').value=val; renderTable(); };
       $('#global-search').addEventListener('input',e=>syncSearch(e.target.value));
       $('#global-search').addEventListener('keydown',e=>{ if(e.key==='Enter') document.getElementById('lookup').scrollIntoView({behavior: 'smooth'}); });
+      $('#btn-global-search').addEventListener('click', () => { document.getElementById('lookup').scrollIntoView({behavior: 'smooth'}); });
       $('#search-step').addEventListener('input',e=>syncSearch(e.target.value));
       $('#filter-stage').onchange=e=>{state.stage=e.target.value; renderTable();};
       $('#filter-gate').onchange=e=>{state.gate=e.target.value; $('#active-gate-pill').textContent = state.gate==='all' ? 'Tất cả Gate' : state.gate; renderFiltered();};
