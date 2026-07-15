@@ -950,12 +950,12 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "stageName": "Giai đoạn chuẩn bị dự án",
  "group": "Quyết định đầu tư",
- "stepName": "Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo kết quả thẩm định (gồm:BCNCKTvà b ản vẽ",
+ "stepName": "Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứu khả thi đã chỉnh sửa, hoàn thiện theo kết quả thẩm định (gồm: BCNCKT và bản vẽ",
  "gate": "G5",
  "icon": "📌",
  "input": [],
  "tasks": [
- "Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo kết quả thẩm định (gồm:BCNCKTvà b ản vẽ"
+ "Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứu khả thi đã chỉnh sửa, hoàn thiện theo kết quả thẩm định (gồm: BCNCKT và bản vẽ"
  ],
  "output": [
  "Quyết định / văn bản phê duyệt tương ứng"
@@ -1153,12 +1153,12 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "stageName": "Giai đoạn chuẩn bị dự án",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "stepName": "Báo cáo kết quả thẩm tra nếu có theo yêu cầu của cơ quan chuyên môn về xây dựng Văn bản ý kiến của cơ quanCông an về giải phápphòng cháy,chữa cháygiai đoạnthiết kế cơ sở điều",
+ "stepName": "Báo cáo kết quả thẩm tra nếu có theo yêu cầu của cơ quan chuyên môn về xây dựng Văn bản ý kiến của cơ quan Công an về giải pháp phòng cháy, chữa cháy giai đoạn thiết kế cơ sở điều",
  "gate": "G5",
  "icon": "📐",
  "input": [],
  "tasks": [
- "Báo cáo kết quả thẩm tra nếu có theo yêu cầu của cơ quan chuyên môn về xây dựng Văn bản ý kiến của cơ quanCông an về giải phápphòng cháy,chữa cháygiai đoạnthiết kế cơ sở điều"
+ "Báo cáo kết quả thẩm tra nếu có theo yêu cầu của cơ quan chuyên môn về xây dựng Văn bản ý kiến của cơ quan Công an về giải pháp phòng cháy, chữa cháy giai đoạn thiết kế cơ sở điều"
  ],
  "output": [
  "Quyết định / văn bản phê duyệt tương ứng"
@@ -1198,12 +1198,12 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "stageName": "Giai đoạn chuẩn bị dự án",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "stepName": "chỉnh(nếu có) ( theoLu ậtPCCC n ăm2024 đã bỏ thủ tụcnày,tuynhiênth ực tế có một số DA vẫnth ực hiện xin ý kiến )",
+ "stepName": "chỉnh (nếu có) (theo Luật PCCC năm 2024 đã bỏ thủ tục này, tuy nhiên thực tế có một số DA vẫn thực hiện xin ý kiến)",
  "gate": "G5",
  "icon": "🔥",
  "input": [],
  "tasks": [
- "chỉnh(nếu có) ( theoLu ậtPCCC n ăm2024 đã bỏ thủ tụcnày,tuynhiênth ực tế có một số DA vẫnth ực hiện xin ý kiến )"
+ "chỉnh (nếu có) (theo Luật PCCC năm 2024 đã bỏ thủ tục này, tuy nhiên thực tế có một số DA vẫn thực hiện xin ý kiến)"
  ],
  "output": [
  "Quyết định / văn bản phê duyệt tương ứng"
@@ -1278,12 +1278,12 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "stageName": "Giai đoạn chuẩn bị dự án",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "stepName": "Báo cáo thẩm định nội bộ của Chủ đầu tư về việc điều chỉnh dự án đầu tư xây dựng công trình Kếtqu ả thẩm định của cơ quan chuyên môn về xây dựng (nếucótheoquy định tạikho ản 2 Điều19 Nghị định số 59/2021/NĐ-CP )",
+ "stepName": "Báo cáo thẩm định nội bộ của Chủ đầu tư về việc điều chỉnh dự án đầu tư xây dựng công trình Kết quả thẩm định của cơ quan chuyên môn về xây dựng (nếu có theo quy định tại khoản 2 Điều 19 Nghị định số 59/2021/NĐ-CP)",
  "gate": "G5",
  "icon": "📌",
  "input": [],
  "tasks": [
- "Báo cáo thẩm định nội bộ của Chủ đầu tư về việc điều chỉnh dự án đầu tư xây dựng công trình Kếtqu ả thẩm định của cơ quan chuyên môn về xây dựng (nếucótheoquy định tạikho ản 2 Điều19 Nghị định số 59/2021/NĐ-CP )"
+ "Báo cáo thẩm định nội bộ của Chủ đầu tư về việc điều chỉnh dự án đầu tư xây dựng công trình Kết quả thẩm định của cơ quan chuyên môn về xây dựng (nếu có theo quy định tại khoản 2 Điều 19 Nghị định số 59/2021/NĐ-CP)"
  ],
  "output": [
  "Quyết định / văn bản phê duyệt tương ứng"
@@ -1361,12 +1361,12 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "stageName": "Giai đoạn chuẩn bị dự án",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "stepName": "Quyết định phê duyệt điều chỉnh dự án đầu tư xây dựng Cáctàili ệukháccóliênquantronggiai đoạnchu ẩn bịđầ u tư xây dựng(l ậpdanh m ụcchiti ết kèm theo)",
+ "stepName": "Quyết định phê duyệt điều chỉnh dự án đầu tư xây dựng Các tài liệu khác có liên quan trong giai đoạn chuẩn bị đầu tư xây dựng (lập danh mục chi tiết kèm theo)",
  "gate": "G5",
  "icon": "📌",
  "input": [],
  "tasks": [
- "Quyết định phê duyệt điều chỉnh dự án đầu tư xây dựng Cáctàili ệukháccóliênquantronggiai đoạnchu ẩn bịđầ u tư xây dựng(l ậpdanh m ụcchiti ết kèm theo)"
+ "Quyết định phê duyệt điều chỉnh dự án đầu tư xây dựng Các tài liệu khác có liên quan trong giai đoạn chuẩn bị đầu tư xây dựng (lập danh mục chi tiết kèm theo)"
  ],
  "output": [
  "Quyết định / văn bản phê duyệt tương ứng"
@@ -4223,12 +4223,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "stepName": "Văn bản thông báo chấp thuận nghiệm thu kết quả khảo sát xây dựng. Thiết kế kỹ thuật(tr ường hợpthiết kế 03 bước)/thiết kế bản vẽ thicông(tr ường hợpthiết kế 02 bước) và dự toán xây dựng công trình tương ứng",
+ "stepName": "Văn bản thông báo chấp thuận nghiệm thu kết quả khảo sát xây dựng. Thiết kế kỹ thuật (trường hợp thiết kế 03 bước)/thiết kế bản vẽ thi công (trường hợp thiết kế 02 bước) và dự toán xây dựng công trình tương ứng",
  "gate": "G9",
  "icon": "📍",
  "input": [],
  "tasks": [
- "Văn bản thông báo chấp thuận nghiệm thu kết quả khảo sát xây dựng. Thiết kế kỹ thuật(tr ường hợpthiết kế 03 bước)/thiết kế bản vẽ thicông(tr ường hợpthiết kế 02 bước) và dự toán xây dựng công trình tương ứng"
+ "Văn bản thông báo chấp thuận nghiệm thu kết quả khảo sát xây dựng. Thiết kế kỹ thuật (trường hợp thiết kế 03 bước)/thiết kế bản vẽ thi công (trường hợp thiết kế 02 bước) và dự toán xây dựng công trình tương ứng"
  ],
  "output": [
  "Văn bản / xác nhận"
@@ -4366,12 +4366,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "stepName": "Kết quả thẩm định dự toán của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bảntính; các b ản vẽ",
+ "stepName": "Kết quả thẩm định dự toán của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bản tính; các b ản vẽ",
  "gate": "G5",
  "icon": "📍",
  "input": [],
  "tasks": [
- "Kết quả thẩm định dự toán của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bảntính; các b ản vẽ"
+ "Kết quả thẩm định dự toán của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bản tính; các b ản vẽ"
  ],
  "output": [
  "Quyết định / văn bản phê duyệt tương ứng"
@@ -4650,12 +4650,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "stepName": "Tờ trình thẩm định Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng )",
+ "stepName": "Tờ trình thẩm định Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)",
  "gate": "G9",
  "icon": "📍",
  "input": [],
  "tasks": [
- "Tờ trình thẩm định Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng )"
+ "Tờ trình thẩm định Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)"
  ],
  "output": [
  "Báo cáo / kết quả xử lý tương ứng"
@@ -4928,12 +4928,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "stepName": "Thiết kế bản vẽ thi công (trường hợp thiết kế 03 bước) và dự toán xây dựng công trình tương ứng Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng )",
+ "stepName": "Thiết kế bản vẽ thi công (trường hợp thiết kế 03 bước) và dự toán xây dựng công trình tương ứng Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)",
  "gate": "G9",
  "icon": "📍",
  "input": [],
  "tasks": [
- "Thiết kế bản vẽ thi công (trường hợp thiết kế 03 bước) và dự toán xây dựng công trình tương ứng Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng )"
+ "Thiết kế bản vẽ thi công (trường hợp thiết kế 03 bước) và dự toán xây dựng công trình tương ứng Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)"
  ],
  "output": [
  "Báo cáo / kết quả xử lý tương ứng"
@@ -5226,12 +5226,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "stepName": "Thiết kế, dự toán điều chỉnh (nếu có) Tờ trình thẩm định (trường hợpcóthay đổi vềđị ach ấtcông trình, t ảitr ọngthiết kế,gi ảipháp k ết cấu,",
+ "stepName": "Thiết kế, dự toán điều chỉnh (nếu có) Tờ trình thẩm định (trường hợp có thay đổi về địa chất công trình, tải trọng thiết kế, giải pháp kết cấu,",
  "gate": "G9",
  "icon": "📍",
  "input": [],
  "tasks": [
- "Thiết kế, dự toán điều chỉnh (nếu có) Tờ trình thẩm định (trường hợpcóthay đổi vềđị ach ấtcông trình, t ảitr ọngthiết kế,gi ảipháp k ết cấu,"
+ "Thiết kế, dự toán điều chỉnh (nếu có) Tờ trình thẩm định (trường hợp có thay đổi về địa chất công trình, tải trọng thiết kế, giải pháp kết cấu,"
  ],
  "output": [
  "Tờ trình"
@@ -5272,12 +5272,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "stepName": "vậtli ệu của kết cấuch ịu lực,bi ệnpháp t ổ chứcthicông ảnh hưởng đến an toànch ịu lực củacông trình ) Báo cáo kết quả thẩm tra thiết kế điều chỉnh (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)",
+ "stepName": "vật liệu của kết cấu chịu lực, biện pháp tổ chức thi công ảnh hưởng đến an toàn chịu lực của công trình) Báo cáo kết quả thẩm tra thiết kế điều chỉnh (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)",
  "gate": "G9",
  "icon": "📍",
  "input": [],
  "tasks": [
- "vậtli ệu của kết cấuch ịu lực,bi ệnpháp t ổ chứcthicông ảnh hưởng đến an toànch ịu lực củacông trình ) Báo cáo kết quả thẩm tra thiết kế điều chỉnh (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)"
+ "vật liệu của kết cấu chịu lực, biện pháp tổ chức thi công ảnh hưởng đến an toàn chịu lực của công trình) Báo cáo kết quả thẩm tra thiết kế điều chỉnh (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)"
  ],
  "output": [
  "Báo cáo / kết quả xử lý tương ứng"
@@ -5318,12 +5318,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "stepName": "Kết quả thẩm định dự toán điều chỉnh của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế điều chỉnh đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bảntính;",
+ "stepName": "Kết quả thẩm định dự toán điều chỉnh của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế điều chỉnh đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bản tính;",
  "gate": "G5",
  "icon": "📍",
  "input": [],
  "tasks": [
- "Kết quả thẩm định dự toán điều chỉnh của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế điều chỉnh đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bảntính;"
+ "Kết quả thẩm định dự toán điều chỉnh của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế điều chỉnh đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bản tính;"
  ],
  "output": [
  "Quyết định / văn bản phê duyệt tương ứng"
@@ -6020,12 +6020,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Lựa chọn nhà thầu",
- "stepName": "Chỉ định thầu rút gọn Dự toángóith ầu đượcChủ đầu tư xác định (nếucótrongtr ường hợp đãcó d ự toánxây d ựngcông trình ) Văn bản đề nghị thamgiagóith ầu củaNhàth ầu (kèmtheotàili ệuch ứngminh điềuki ện năng lực của tổ chức và cá nhân theo quy định )",
+ "stepName": "Chỉ định thầu rút gọn Dự toán gói thầu được Chủ đầu tư xác định (nếu có trong trường hợp đã có dự toán xây dựng công trình) Văn bản đề nghị tham gia gói thầu của Nhà thầu (kèm theo tài liệu chứng minh điều kiện năng lực của tổ chức và cá nhân theo quy định)",
  "gate": "G10",
  "icon": "🧮",
  "input": [],
  "tasks": [
- "Chỉ định thầu rút gọn Dự toángóith ầu đượcChủ đầu tư xác định (nếucótrongtr ường hợp đãcó d ự toánxây d ựngcông trình ) Văn bản đề nghị thamgiagóith ầu củaNhàth ầu (kèmtheotàili ệuch ứngminh điềuki ện năng lực của tổ chức và cá nhân theo quy định )"
+ "Chỉ định thầu rút gọn Dự toán gói thầu được Chủ đầu tư xác định (nếu có trong trường hợp đã có dự toán xây dựng công trình) Văn bản đề nghị tham gia gói thầu của Nhà thầu (kèm theo tài liệu chứng minh điều kiện năng lực của tổ chức và cá nhân theo quy định)"
  ],
  "output": [
  "Văn bản / xác nhận"
@@ -6906,12 +6906,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Lựa chọn nhà thầu",
- "stepName": "Văn bản gửi Nhà thầu đề nghị lập Hồ sơ đề xuất Hồ sơđề xuất củaNhàth ầu (bao gồm cả tàili ệuch ứngminh điềuki ện năng lực của tổ chứcvàcá nhân theo quy định )",
+ "stepName": "Văn bản gửi Nhà thầu đề nghị lập Hồ sơ đề xuất Hồ sơ đề xuất của Nhà thầu (bao gồm cả tài liệu chứng minh điều kiện năng lực của tổ chức và cá nhân theo quy định)",
  "gate": "G10",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "Văn bản gửi Nhà thầu đề nghị lập Hồ sơ đề xuất Hồ sơđề xuất củaNhàth ầu (bao gồm cả tàili ệuch ứngminh điềuki ện năng lực của tổ chứcvàcá nhân theo quy định )"
+ "Văn bản gửi Nhà thầu đề nghị lập Hồ sơ đề xuất Hồ sơ đề xuất của Nhà thầu (bao gồm cả tài liệu chứng minh điều kiện năng lực của tổ chức và cá nhân theo quy định)"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -7344,12 +7344,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Lựa chọn nhà thầu",
- "stepName": "Quyết định phê duyệt/Văn bản chấp thuận danh sách nhà thầu đáp ứng về kỹ thuật. Thôngbáodanhsáchnhàth ầu đáp ứng kỹ thuật tới tất cả cácnhàth ầu, mờinhàth ầu đến mở hồ sơđề xuất tài chính.",
+ "stepName": "Quyết định phê duyệt/Văn bản chấp thuận danh sách nhà thầu đáp ứng về kỹ thuật. Thông báo danh sách nhà thầu đáp ứng kỹ thuật tới tất cả các nhà thầu, mời nhà thầu đến mở hồ sơ đề xuất tài chính.",
  "gate": "G10",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "Quyết định phê duyệt/Văn bản chấp thuận danh sách nhà thầu đáp ứng về kỹ thuật. Thôngbáodanhsáchnhàth ầu đáp ứng kỹ thuật tới tất cả cácnhàth ầu, mờinhàth ầu đến mở hồ sơđề xuất tài chính."
+ "Quyết định phê duyệt/Văn bản chấp thuận danh sách nhà thầu đáp ứng về kỹ thuật. Thông báo danh sách nhà thầu đáp ứng kỹ thuật tới tất cả các nhà thầu, mời nhà thầu đến mở hồ sơ đề xuất tài chính."
  ],
  "output": [
  "Quyết định / văn bản phê duyệt tương ứng"
@@ -8024,12 +8024,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Lựa chọn nhà thầu",
- "stepName": "Tài liệu đăng tải thông tin mời thầu Pháthành h ồ sơ mờith ầu(Danhsáchho ặcbiên b ảngiaonh ận,phi ếuthucácnhàth ầumua h ồ sơ mời thầu đến trước thời điểm đóng thầu)",
+ "stepName": "Tài liệu đăng tải thông tin mời thầu Phát hành hồ sơ mời thầu (Danh sách hoặc biên bản giao nhận, phiếu thu các nhà thầu mua hồ sơ mời thầu đến trước thời điểm đóng thầu)",
  "gate": "G10",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "Tài liệu đăng tải thông tin mời thầu Pháthành h ồ sơ mờith ầu(Danhsáchho ặcbiên b ảngiaonh ận,phi ếuthucácnhàth ầumua h ồ sơ mời thầu đến trước thời điểm đóng thầu)"
+ "Tài liệu đăng tải thông tin mời thầu Phát hành hồ sơ mời thầu (Danh sách hoặc biên bản giao nhận, phiếu thu các nhà thầu mua hồ sơ mời thầu đến trước thời điểm đóng thầu)"
  ],
  "output": [
  "Hồ sơ / sản phẩm đầu ra tương ứng"
@@ -8355,12 +8355,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hợp đồng, các Phụ lục Hợp đồng trong quá trình thực hiện",
- "stepName": "Hợp đồng CácPh ụ lục Hợp đồng nếucó ( điều chỉnh, bổ sungkh ối lượng, nộidungcôngvi ệc;ti ến độ;giá Hợp đồng; các điều khoản Hợp đồng)",
+ "stepName": "Hợp đồng Các Phụ lục Hợp đồng nếu có (điều chỉnh, bổ sung khối lượng, nội dung công việc; tiến độ; giá Hợp đồng; các điều khoản Hợp đồng)",
  "gate": "G11",
  "icon": "📑",
  "input": [],
  "tasks": [
- "Hợp đồng CácPh ụ lục Hợp đồng nếucó ( điều chỉnh, bổ sungkh ối lượng, nộidungcôngvi ệc;ti ến độ;giá Hợp đồng; các điều khoản Hợp đồng)"
+ "Hợp đồng Các Phụ lục Hợp đồng nếu có (điều chỉnh, bổ sung khối lượng, nội dung công việc; tiến độ; giá Hợp đồng; các điều khoản Hợp đồng)"
  ],
  "output": [
  "Hồ sơ / sản phẩm đầu ra tương ứng"
@@ -8398,12 +8398,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hợp đồng, các Phụ lục Hợp đồng trong quá trình thực hiện",
- "stepName": "Văn bản của Chủ đầu tư giao Nhà thầu thực hiện bổ sung nội dung công việc Văn bản đề xuất củaNhàth ầu về tiến độ,giá H ợp đồng điều chỉnh (kèmtheobi ểugiáchiti ết đề xuất, tài liệu chứng minh đơn giá đề xuất )",
+ "stepName": "Văn bản của Chủ đầu tư giao Nhà thầu thực hiện bổ sung nội dung công việc Văn bản đề xuất của Nhà thầu về tiến độ, giá Hợp đồng điều chỉnh (kèm theo biểu giá chi tiết đề xuất, tài liệu chứng minh đơn giá đề xuất)",
  "gate": "G11",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "Văn bản của Chủ đầu tư giao Nhà thầu thực hiện bổ sung nội dung công việc Văn bản đề xuất củaNhàth ầu về tiến độ,giá H ợp đồng điều chỉnh (kèmtheobi ểugiáchiti ết đề xuất, tài liệu chứng minh đơn giá đề xuất )"
+ "Văn bản của Chủ đầu tư giao Nhà thầu thực hiện bổ sung nội dung công việc Văn bản đề xuất của Nhà thầu về tiến độ, giá Hợp đồng điều chỉnh (kèm theo biểu giá chi tiết đề xuất, tài liệu chứng minh đơn giá đề xuất)"
  ],
  "output": [
  "Văn bản / xác nhận"
@@ -8448,12 +8448,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hợp đồng, các Phụ lục Hợp đồng trong quá trình thực hiện",
- "stepName": "Biên bản thương thảo điều chỉnh Hợp đồng Văn bảnchấp thuận củaNg ườiquy ết định đầu tư trongtr ường hợp:(i) B ổ sungkh ối lượngphátsinh",
+ "stepName": "Biên bản thương thảo điều chỉnh Hợp đồng Văn bản chấp thuận của Người quyết định đầu tư trong trường hợp: (i) Bổ sung khối lượng phát sinh",
  "gate": "G11",
  "icon": "📑",
  "input": [],
  "tasks": [
- "Biên bản thương thảo điều chỉnh Hợp đồng Văn bảnchấp thuận củaNg ườiquy ết định đầu tư trongtr ường hợp:(i) B ổ sungkh ối lượngphátsinh"
+ "Biên bản thương thảo điều chỉnh Hợp đồng Văn bản chấp thuận của Người quyết định đầu tư trong trường hợp: (i) Bổ sung khối lượng phát sinh"
  ],
  "output": [
  "Biên bản / tài liệu xác nhận"
@@ -8491,12 +8491,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hợp đồng, các Phụ lục Hợp đồng trong quá trình thực hiện",
- "stepName": "ngoàiph ạmvicôngvi ệc củagóith ầu;ho ặc(ii) V ượtgiágóith ầuho ặc dự toángóith ầu đượcphê duyệt; hoặc (iii) Trường hợp điều chỉnh tiến độ làm kéo dài tiến độ thực hiện hợp đồng",
+ "stepName": "ngoài phạm vi công việc của gói thầu; hoặc (ii) Vượt giá gói thầu hoặc dự toán gói thầu được phê duyệt; hoặc (iii) Trường hợp điều chỉnh tiến độ làm kéo dài tiến độ thực hiện hợp đồng",
  "gate": "G11",
  "icon": "🧮",
  "input": [],
  "tasks": [
- "ngoàiph ạmvicôngvi ệc củagóith ầu;ho ặc(ii) V ượtgiágóith ầuho ặc dự toángóith ầu đượcphê duyệt; hoặc (iii) Trường hợp điều chỉnh tiến độ làm kéo dài tiến độ thực hiện hợp đồng"
+ "ngoài phạm vi công việc của gói thầu; hoặc (ii) Vượt giá gói thầu hoặc dự toán gói thầu được phê duyệt; hoặc (iii) Trường hợp điều chỉnh tiến độ làm kéo dài tiến độ thực hiện hợp đồng"
  ],
  "output": [
  "Hồ sơ / sản phẩm đầu ra tương ứng"
@@ -9149,12 +9149,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Các công việc tư vấn khác Biên bảnbàngiao s ảnph ẩm tư vấn(h ồ sơ thiết kế, dự toán/báo cáo kết quả thẩmtra/Báo cáocôngtác giám sát,…)",
+ "stepName": "Các công việc tư vấn khác Biên bản bàn giao sản phẩm tư vấn (hồ sơ thiết kế, dự toán/báo cáo kết quả thẩm tra/Báo cáo công tác giám sát,…)",
  "gate": "G9",
  "icon": "📐",
  "input": [],
  "tasks": [
- "Các công việc tư vấn khác Biên bảnbàngiao s ảnph ẩm tư vấn(h ồ sơ thiết kế, dự toán/báo cáo kết quả thẩmtra/Báo cáocôngtác giám sát,…)"
+ "Các công việc tư vấn khác Biên bản bàn giao sản phẩm tư vấn (hồ sơ thiết kế, dự toán/báo cáo kết quả thẩm tra/Báo cáo công tác giám sát,…)"
  ],
  "output": [
  "Báo cáo / kết quả xử lý tương ứng"
@@ -9344,12 +9344,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "stepName": "Công tác tạm ứng, thanh toán, quyết toán Bảng tổng hợp lũy kế giátr ị giảingân củatoàn b ộ Dự án từngthángtheo t ừngkho ản mụcchiphí/gói thầu/phần việc",
+ "stepName": "Công tác tạm ứng, thanh toán, quyết toán Bảng tổng hợp lũy kế giá trị giải ngân của toàn bộ Dự án từng tháng theo từng khoản mục chi phí/gói thầu/phần việc",
  "gate": "G14",
  "icon": "🧾",
  "input": [],
  "tasks": [
- "Công tác tạm ứng, thanh toán, quyết toán Bảng tổng hợp lũy kế giátr ị giảingân củatoàn b ộ Dự án từngthángtheo t ừngkho ản mụcchiphí/gói thầu/phần việc"
+ "Công tác tạm ứng, thanh toán, quyết toán Bảng tổng hợp lũy kế giá trị giải ngân của toàn bộ Dự án từng tháng theo từng khoản mục chi phí/gói thầu/phần việc"
  ],
  "output": [
  "Hồ sơ / sản phẩm đầu ra tương ứng"
@@ -9393,12 +9393,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "stepName": "Hồ sơ tạm ứng (từng đợt) Văn bảnchấp thuận của cấpcóthẩmquy ền về việcchophép t ạm ứng vượtquá30%giátr ị hợp đồng (bao gồm cả dự phòng nếu có)",
+ "stepName": "Hồ sơ tạm ứng (từng đợt) Văn bản chấp thuận của cấp có thẩm quyền về việc cho phép tạm ứng vượt quá 30% giá trị hợp đồng (bao gồm cả dự phòng nếu có)",
  "gate": "G11",
  "icon": "📑",
  "input": [],
  "tasks": [
- "Hồ sơ tạm ứng (từng đợt) Văn bảnchấp thuận của cấpcóthẩmquy ền về việcchophép t ạm ứng vượtquá30%giátr ị hợp đồng (bao gồm cả dự phòng nếu có)"
+ "Hồ sơ tạm ứng (từng đợt) Văn bản chấp thuận của cấp có thẩm quyền về việc cho phép tạm ứng vượt quá 30% giá trị hợp đồng (bao gồm cả dự phòng nếu có)"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -9598,12 +9598,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "stepName": "Bảo lãnh thực hiện Hợp đồng Văn bảncam k ết củaNgânhàng về việcch ỉđượ cphépkh ấutr ừ vàthanhtoánchocáccôngvi ệcliên quan đến dự án (nếu Hợp đồng có quy định )",
+ "stepName": "Bảo lãnh thực hiện Hợp đồng Văn bản cam kết của Ngân hàng về việc chỉ được phép khấu trừ và thanh toán cho các công việc liên quan đến dự án (nếu Hợp đồng có quy định)",
  "gate": "G11",
  "icon": "📑",
  "input": [],
  "tasks": [
- "Bảo lãnh thực hiện Hợp đồng Văn bảncam k ết củaNgânhàng về việcch ỉđượ cphépkh ấutr ừ vàthanhtoánchocáccôngvi ệcliên quan đến dự án (nếu Hợp đồng có quy định )"
+ "Bảo lãnh thực hiện Hợp đồng Văn bản cam kết của Ngân hàng về việc chỉ được phép khấu trừ và thanh toán cho các công việc liên quan đến dự án (nếu Hợp đồng có quy định)"
  ],
  "output": [
  "Văn bản / xác nhận"
@@ -9702,12 +9702,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "stepName": "Hồ sơ thanh toán (từng đợt) Văn bản đề nghị thanhtoán c ủaNhàth ầukèmtheoBiên b ảngiaonh ận hồ sơ (liệtkêchiti ếtdanh m ục hồ sơ )",
+ "stepName": "Hồ sơ thanh toán (từng đợt) Văn bản đề nghị thanh toán của Nhà thầu kèm theo Biên bản giao nhận hồ sơ (liệt kê chi tiết danh mục hồ sơ)",
  "gate": "G14",
  "icon": "🧾",
  "input": [],
  "tasks": [
- "Hồ sơ thanh toán (từng đợt) Văn bản đề nghị thanhtoán c ủaNhàth ầukèmtheoBiên b ảngiaonh ận hồ sơ (liệtkêchiti ếtdanh m ục hồ sơ )"
+ "Hồ sơ thanh toán (từng đợt) Văn bản đề nghị thanh toán của Nhà thầu kèm theo Biên bản giao nhận hồ sơ (liệt kê chi tiết danh mục hồ sơ)"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -9751,12 +9751,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "stepName": "Hồ sơ chất lượng (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthukh ối lượngcôngvi ệchoàn thành t ương ứng vớigiai đoạnthànhtoán đã được đại",
+ "stepName": "Hồ sơ chất lượng (đề cập tại Mục 8 Phần II trên đây ) Biên bản nghiệm thu khối lượng công việc hoàn thành tương ứng với giai đoạn thanh toán đã được đại",
  "gate": "G12",
  "icon": "✅",
  "input": [],
  "tasks": [
- "Hồ sơ chất lượng (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthukh ối lượngcôngvi ệchoàn thành t ương ứng vớigiai đoạnthànhtoán đã được đại"
+ "Hồ sơ chất lượng (đề cập tại Mục 8 Phần II trên đây ) Biên bản nghiệm thu khối lượng công việc hoàn thành tương ứng với giai đoạn thanh toán đã được đại"
  ],
  "output": [
  "Biên bản / tài liệu xác nhận"
@@ -9848,12 +9848,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "stepName": "diệnNhàth ầu, đạidi ện Tư vấngiámsátvà đạidi ệnChủ đầu tư ký, đóng dấu (kèmtheo B ảngchi ếttính khối lượng ) Bảngxác địnhgiátr ị khối lượngcôngvi ệchoàn thànhtheo h ợp đồng đề nghị thanhtoáncóxác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu Bảngxác địnhgiátr ị khối lượngcôngvi ệcphátsinhngoài h ợp đồng đề nghị thanhtoáncóxác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu",
+ "stepName": "diện Nhà thầu, đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng) Bảng xác định giá trị khối lượng công việc hoàn thành theo hợp đồng đề nghị thanh toán có xác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu Bảng xác định giá trị khối lượng công việc phát sinh ngoài hợp đồng đề nghị thanh toán có xác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu",
  "gate": "G14",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "diệnNhàth ầu, đạidi ện Tư vấngiámsátvà đạidi ệnChủ đầu tư ký, đóng dấu (kèmtheo B ảngchi ếttính khối lượng ) Bảngxác địnhgiátr ị khối lượngcôngvi ệchoàn thànhtheo h ợp đồng đề nghị thanhtoáncóxác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu Bảngxác địnhgiátr ị khối lượngcôngvi ệcphátsinhngoài h ợp đồng đề nghị thanhtoáncóxác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu"
+ "diện Nhà thầu, đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng) Bảng xác định giá trị khối lượng công việc hoàn thành theo hợp đồng đề nghị thanh toán có xác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu Bảng xác định giá trị khối lượng công việc phát sinh ngoài hợp đồng đề nghị thanh toán có xác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu"
  ],
  "output": [
  "Hồ sơ / sản phẩm đầu ra tương ứng"
@@ -10053,12 +10053,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "stepName": "Hồ sơ quyết toán Hợp đồng (quyết toán A-B) Văn bản đề nghị quyếttoán c ủaNhàth ầukèmtheoBiên b ảngiaonh ận hồ sơ (liệtkêchiti ếtdanh m ục hồ sơ )",
+ "stepName": "Hồ sơ quyết toán Hợp đồng (quyết toán A-B) Văn bản đề nghị quyết toán của Nhà thầu kèm theo Biên bản giao nhận hồ sơ (liệt kê chi tiết danh mục hồ sơ)",
  "gate": "G11",
  "icon": "📑",
  "input": [],
  "tasks": [
- "Hồ sơ quyết toán Hợp đồng (quyết toán A-B) Văn bản đề nghị quyếttoán c ủaNhàth ầukèmtheoBiên b ảngiaonh ận hồ sơ (liệtkêchiti ếtdanh m ục hồ sơ )"
+ "Hồ sơ quyết toán Hợp đồng (quyết toán A-B) Văn bản đề nghị quyết toán của Nhà thầu kèm theo Biên bản giao nhận hồ sơ (liệt kê chi tiết danh mục hồ sơ)"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -10105,12 +10105,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "stepName": "Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquyết toánkh ối lượnghoàn thành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )",
+ "stepName": "Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bản nghiệm thu quyết toán khối lượng hoàn thành Hợp đồng đã được đại diện Nhà thầu và đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng)",
  "gate": "G13",
  "icon": "🧾",
  "input": [],
  "tasks": [
- "Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquyết toánkh ối lượnghoàn thành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )"
+ "Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bản nghiệm thu quyết toán khối lượng hoàn thành Hợp đồng đã được đại diện Nhà thầu và đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng)"
  ],
  "output": [
  "Biên bản / tài liệu xác nhận"
@@ -10702,12 +10702,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Tài liệu công bố tiêu chuẩn áp dụng của Nhà sản xuất đối với sản phẩm, hàng hóa Chứngnh ận hợpquy,công b ố hợpquy,thôngbáoti ếpnh ận hồ sơ công bố hợpquy c ủa cơ quan",
+ "stepName": "Tài liệu công bố tiêu chuẩn áp dụng của Nhà sản xuất đối với sản phẩm, hàng hóa Chứng nhận hợp quy, công bố hợp quy, thông báo tiếp nhận hồ sơ công bố hợp quy của cơ quan",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "Tài liệu công bố tiêu chuẩn áp dụng của Nhà sản xuất đối với sản phẩm, hàng hóa Chứngnh ận hợpquy,công b ố hợpquy,thôngbáoti ếpnh ận hồ sơ công bố hợpquy c ủa cơ quan"
+ "Tài liệu công bố tiêu chuẩn áp dụng của Nhà sản xuất đối với sản phẩm, hàng hóa Chứng nhận hợp quy, công bố hợp quy, thông báo tiếp nhận hồ sơ công bố hợp quy của cơ quan"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -10749,12 +10749,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "chuyênngành;ch ứngnh ận hợpchu ẩnvàcông b ố hợpchu ẩn(nếu có)theoquy định củaLu ậtCh ất lượng sản phẩm hàng hóa",
+ "stepName": "chuyên ngành; chứng nhận hợp chuẩn và công bố hợp chuẩn (nếu có) theo quy định của Luật Chất lượng sản phẩm hàng hóa",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "chuyênngành;ch ứngnh ận hợpchu ẩnvàcông b ố hợpchu ẩn(nếu có)theoquy định củaLu ậtCh ất lượng sản phẩm hàng hóa"
+ "chuyên ngành; chứng nhận hợp chuẩn và công bố hợp chuẩn (nếu có) theo quy định của Luật Chất lượng sản phẩm hàng hóa"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -10796,12 +10796,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Kết quả thí nghiệm vật liệu/kiểm định thiết bị Giấych ứngnh ậnxu ất xứ (CO) đối với vậtli ệu/thiết bị nhậpkh ẩu;Biên b ảngiaonh ậnhànghóa đối với hàng hóa trong nước",
+ "stepName": "Kết quả thí nghiệm vật liệu/kiểm định thiết bị Giấy chứng nhận xuất xứ (CO) đối với vật liệu/thiết bị nhập khẩu; Biên bản giao nhận hàng hóa đối với hàng hóa trong nước",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "Kết quả thí nghiệm vật liệu/kiểm định thiết bị Giấych ứngnh ậnxu ất xứ (CO) đối với vậtli ệu/thiết bị nhậpkh ẩu;Biên b ảngiaonh ậnhànghóa đối với hàng hóa trong nước"
+ "Kết quả thí nghiệm vật liệu/kiểm định thiết bị Giấy chứng nhận xuất xứ (CO) đối với vật liệu/thiết bị nhập khẩu; Biên bản giao nhận hàng hóa đối với hàng hóa trong nước"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -11087,12 +11087,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Biên bản bàn giao hồ sơ thiết kế (bao gồm thiết kế bản vẽ thi công ) đã được phê duyệt cho Nhà thầu Biên bảnbàngiao h ồ sơ thiết kế; hồ sơ mờith ầu, hồ sơ dự thầu củaNhàth ầutrúngth ầu,Biên b ản thương thảo và Hợp đồng, phụ lục Hợp đồng cho Tư vấn giám sát",
+ "stepName": "Biên bản bàn giao hồ sơ thiết kế (bao gồm thiết kế bản vẽ thi công ) đã được phê duyệt cho Nhà thầu Biên bản bàn giao hồ sơ thiết kế; hồ sơ mời thầu, hồ sơ dự thầu của Nhà thầu trúng thầu,Biên b ản thương thảo và Hợp đồng, phụ lục Hợp đồng cho Tư vấn giám sát",
  "gate": "G9",
  "icon": "📐",
  "input": [],
  "tasks": [
- "Biên bản bàn giao hồ sơ thiết kế (bao gồm thiết kế bản vẽ thi công ) đã được phê duyệt cho Nhà thầu Biên bảnbàngiao h ồ sơ thiết kế; hồ sơ mờith ầu, hồ sơ dự thầu củaNhàth ầutrúngth ầu,Biên b ản thương thảo và Hợp đồng, phụ lục Hợp đồng cho Tư vấn giám sát"
+ "Biên bản bàn giao hồ sơ thiết kế (bao gồm thiết kế bản vẽ thi công ) đã được phê duyệt cho Nhà thầu Biên bản bàn giao hồ sơ thiết kế; hồ sơ mời thầu, hồ sơ dự thầu của Nhà thầu trúng thầu,Biên b ản thương thảo và Hợp đồng, phụ lục Hợp đồng cho Tư vấn giám sát"
  ],
  "output": [
  "Biên bản / tài liệu xác nhận"
@@ -11497,12 +11497,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Báo cáo giám sát định kỳ/giai đoạn của Tư vấn giám sát Nghiệm thu bộ phận, giai đoạn hoàn thành (nếu có); nghiệm thu hoàn thành công trình để đưa vào sử dụng Cácthay đổithiết kế trongquátrìnhthicôngxây d ựngcông trình vàcác v ăn bảnthẩm định,phê duyệt của cấp có thẩm quyền (lập danh mục kèm theo )",
+ "stepName": "Báo cáo giám sát định kỳ/giai đoạn của Tư vấn giám sát Nghiệm thu bộ phận, giai đoạn hoàn thành (nếu có); nghiệm thu hoàn thành công trình để đưa vào sử dụng Các thay đổi thiết kế trong quá trình thi công xây dựng công trình và các văn bản thẩm định, phê duyệt của cấp có thẩm quyền (lập danh mục kèm theo)",
  "gate": "G9",
  "icon": "📐",
  "input": [],
  "tasks": [
- "Báo cáo giám sát định kỳ/giai đoạn của Tư vấn giám sát Nghiệm thu bộ phận, giai đoạn hoàn thành (nếu có); nghiệm thu hoàn thành công trình để đưa vào sử dụng Cácthay đổithiết kế trongquátrìnhthicôngxây d ựngcông trình vàcác v ăn bảnthẩm định,phê duyệt của cấp có thẩm quyền (lập danh mục kèm theo )"
+ "Báo cáo giám sát định kỳ/giai đoạn của Tư vấn giám sát Nghiệm thu bộ phận, giai đoạn hoàn thành (nếu có); nghiệm thu hoàn thành công trình để đưa vào sử dụng Các thay đổi thiết kế trong quá trình thi công xây dựng công trình và các văn bản thẩm định, phê duyệt của cấp có thẩm quyền (lập danh mục kèm theo)"
  ],
  "output": [
  "Báo cáo / kết quả xử lý tương ứng"
@@ -11646,12 +11646,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Biên bản bàn giao mặt bằng, mốc trắc đạc cho Nhà thầu thi công, thể hiện phạm vi, tọa độ, cao độ Biệnphápthicôngdonhàth ầu lập (bao gồm cả biệnpháp b ảo vệ môi trường,phòngch ốngcháy n ổ,",
+ "stepName": "Biên bản bàn giao mặt bằng, mốc trắc đạc cho Nhà thầu thi công, thể hiện phạm vi, tọa độ, cao độ Biện pháp thi công do nhà thầu lập (bao gồm cả biện pháp bảo vệ môi trường, phòng chống cháy nổ,",
  "gate": "G12",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "Biên bản bàn giao mặt bằng, mốc trắc đạc cho Nhà thầu thi công, thể hiện phạm vi, tọa độ, cao độ Biệnphápthicôngdonhàth ầu lập (bao gồm cả biệnpháp b ảo vệ môi trường,phòngch ốngcháy n ổ,"
+ "Biên bản bàn giao mặt bằng, mốc trắc đạc cho Nhà thầu thi công, thể hiện phạm vi, tọa độ, cao độ Biện pháp thi công do nhà thầu lập (bao gồm cả biện pháp bảo vệ môi trường, phòng chống cháy nổ,"
  ],
  "output": [
  "Biên bản / tài liệu xác nhận"
@@ -12212,12 +12212,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu về PCCC của cơ quan Công an Biên bảnki ểmtravà V ăn bảnchấp thuậnnghi ệmthu đưacông trình b ảo vệ môi trườngvào s ử dụng của cơ quan QLNN về môi trường (nếu có) Biên bảnki ểmtravà V ăn bảnxác nhận của các t ổ chức, cơ quanQLNNcóthẩmquy ền về antoàn v ận hành hệ thống thiết bị công trình, thiết bị công nghệ (nếu có)",
+ "stepName": "Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu về PCCC của cơ quan Công an Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu đưa công trình bảo vệ môi trường vào sử dụng của cơ quan QLNN về môi trường (nếu có) Biên bản kiểm tra và Văn bản xác nhận của các tổ chức, cơ quan QLNN có thẩm quyền về an toàn vận hành hệ thống thiết bị công trình, thiết bị công nghệ (nếu có)",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu về PCCC của cơ quan Công an Biên bảnki ểmtravà V ăn bảnchấp thuậnnghi ệmthu đưacông trình b ảo vệ môi trườngvào s ử dụng của cơ quan QLNN về môi trường (nếu có) Biên bảnki ểmtravà V ăn bảnxác nhận của các t ổ chức, cơ quanQLNNcóthẩmquy ền về antoàn v ận hành hệ thống thiết bị công trình, thiết bị công nghệ (nếu có)"
+ "Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu về PCCC của cơ quan Công an Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu đưa công trình bảo vệ môi trường vào sử dụng của cơ quan QLNN về môi trường (nếu có) Biên bản kiểm tra và Văn bản xác nhận của các tổ chức, cơ quan QLNN có thẩm quyền về an toàn vận hành hệ thống thiết bị công trình, thiết bị công nghệ (nếu có)"
  ],
  "output": [
  "Biên bản / tài liệu xác nhận"
@@ -12508,12 +12508,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Phụ lục các tồn tại cần sửa chữa, khắc phục (nếu có) sau khi đưa công trình vào khai thác sử dụng Các hồ sơ/văn bản/tàili ệukhácliênquantrongquátrìnhthicôngxây d ựng (lậpdanh m ụcchiti ếtkèm theo ) Biên bảnki ểmtravà V ăn bảnchấp thuậncông trình đủ điềuki ệnvào s ử dụng của cơ quan chuyên môn về xây dựng",
+ "stepName": "Phụ lục các tồn tại cần sửa chữa, khắc phục (nếu có) sau khi đưa công trình vào khai thác sử dụng Các hồ sơ/văn bản/tài liệu khác liên quan trong quá trình thi công xây dựng (lập danh mục chi tiết kèm theo) Biên bản kiểm tra và Văn bản chấp thuận công trình đủ điều kiện vào sử dụng của cơ quan chuyên môn về xây dựng",
  "gate": "G11",
  "icon": "👷",
  "input": [],
  "tasks": [
- "Phụ lục các tồn tại cần sửa chữa, khắc phục (nếu có) sau khi đưa công trình vào khai thác sử dụng Các hồ sơ/văn bản/tàili ệukhácliênquantrongquátrìnhthicôngxây d ựng (lậpdanh m ụcchiti ếtkèm theo ) Biên bảnki ểmtravà V ăn bảnchấp thuậncông trình đủ điềuki ệnvào s ử dụng của cơ quan chuyên môn về xây dựng"
+ "Phụ lục các tồn tại cần sửa chữa, khắc phục (nếu có) sau khi đưa công trình vào khai thác sử dụng Các hồ sơ/văn bản/tài liệu khác liên quan trong quá trình thi công xây dựng (lập danh mục chi tiết kèm theo) Biên bản kiểm tra và Văn bản chấp thuận công trình đủ điều kiện vào sử dụng của cơ quan chuyên môn về xây dựng"
  ],
  "output": [
  "Biên bản / tài liệu xác nhận"
@@ -12649,12 +12649,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Biên bản nghiệm thu bộ phận, giai đoạn hoàn thành của Chủ đầu tư Báo cáo c ủaChủ đầu tư gửi cơ quan chuyên môn về xây dựng để thựchi ệnki ểmtracôngtácnghi ệm thu theo quy định trong quá trình thi công Thôngbáo kết quả kiểmtra c ủa cơ quan chuyên môn về xây dựngtrongquátrìnhthicôngxây d ựng công trình",
+ "stepName": "Biên bản nghiệm thu bộ phận, giai đoạn hoàn thành của Chủ đầu tư Báo cáo của Chủ đầu tư gửi cơ quan chuyên môn về xây dựng để thực hiện kiểm tra công tác nghiệm thu theo quy định trong quá trình thi công Thông báo kết quả kiểm tra của cơ quan chuyên môn về xây dựng trong quá trình thi công xây dựng công trình",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "Biên bản nghiệm thu bộ phận, giai đoạn hoàn thành của Chủ đầu tư Báo cáo c ủaChủ đầu tư gửi cơ quan chuyên môn về xây dựng để thựchi ệnki ểmtracôngtácnghi ệm thu theo quy định trong quá trình thi công Thôngbáo kết quả kiểmtra c ủa cơ quan chuyên môn về xây dựngtrongquátrìnhthicôngxây d ựng công trình"
+ "Biên bản nghiệm thu bộ phận, giai đoạn hoàn thành của Chủ đầu tư Báo cáo của Chủ đầu tư gửi cơ quan chuyên môn về xây dựng để thực hiện kiểm tra công tác nghiệm thu theo quy định trong quá trình thi công Thông báo kết quả kiểm tra của cơ quan chuyên môn về xây dựng trong quá trình thi công xây dựng công trình"
  ],
  "output": [
  "Báo cáo / kết quả xử lý tương ứng"
@@ -12791,12 +12791,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Kết quả quan trắc công trình (nếu có), đo đạc trong quá trình thi công. Các kếtqu ả thínghi ệm đốich ứng,ki ểm địnhch ất lượngcông trình,thínghi ệmkhả năngch ịu lực kết cấu xây dựng (nếu có)",
+ "stepName": "Kết quả quan trắc công trình (nếu có), đo đạc trong quá trình thi công. Các kết quả thí nghiệm đối chứng, kiểm định chất lượng công trình, thí nghiệm khả năng chịu lực kết cấu xây dựng (nếu có)",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "Kết quả quan trắc công trình (nếu có), đo đạc trong quá trình thi công. Các kếtqu ả thínghi ệm đốich ứng,ki ểm địnhch ất lượngcông trình,thínghi ệmkhả năngch ịu lực kết cấu xây dựng (nếu có)"
+ "Kết quả quan trắc công trình (nếu có), đo đạc trong quá trình thi công. Các kết quả thí nghiệm đối chứng, kiểm định chất lượng công trình, thí nghiệm khả năng chịu lực kết cấu xây dựng (nếu có)"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -12886,12 +12886,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "biệnpháp đảm bảoantoànchiti ết;bi ệnphápki ểmtra,ki ểmsoátch ất lượng vậtli ệu, sảnph ẩm, cấu kiện, thiết bị được sử dụng cho công trình ) đã được Chủ đầu tư chấp thuận Kếtqu ả thẩmtra c ủa tổ chức tư vấn đủ điềuki ện năng lực,phê duyệt củaChủ đầu tưđố i vớibi ệnpháp",
+ "stepName": "biện pháp đảm bảo an toàn chi tiết; biện pháp kiểm tra, kiểm soát chất lượng vật liệu, sản phẩm, cấu kiện, thiết bị được sử dụng cho công trình) đã được Chủ đầu tư chấp thuận Kết quả thẩm tra của tổ chức tư vấn đủ điều kiện năng lực, phê duyệt của Chủ đầu tư đối với biện pháp",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "biệnpháp đảm bảoantoànchiti ết;bi ệnphápki ểmtra,ki ểmsoátch ất lượng vậtli ệu, sảnph ẩm, cấu kiện, thiết bị được sử dụng cho công trình ) đã được Chủ đầu tư chấp thuận Kếtqu ả thẩmtra c ủa tổ chức tư vấn đủ điềuki ện năng lực,phê duyệt củaChủ đầu tưđố i vớibi ệnpháp"
+ "biện pháp đảm bảo an toàn chi tiết; biện pháp kiểm tra, kiểm soát chất lượng vật liệu, sản phẩm, cấu kiện, thiết bị được sử dụng cho công trình) đã được Chủ đầu tư chấp thuận Kết quả thẩm tra của tổ chức tư vấn đủ điều kiện năng lực, phê duyệt của Chủ đầu tư đối với biện pháp"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -12933,12 +12933,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "thicông đặcthù ( phá dỡ công trìnhxây d ựng đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng; cần trục tháp; biện pháp thi công tầng hầm,… ) Kế hoạch tổ chứcthínghi ệm,ki ểmtra,ki ểm định,th ử nghiệm,ch ạyth ử,quantr ắc, đo đạccácthông s ố kỹ thuật của công trình được Chủ đầu tư chấp thuận",
+ "stepName": "thi công đặc thù (phá dỡ công trình xây dựng đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng; cần trục tháp; biện pháp thi công tầng hầm,…) Kế hoạch tổ chức thí nghiệm, kiểm tra, kiểm định, thử nghiệm, chạy thử, quan trắc, đo đạc các thông số kỹ thuật của công trình được Chủ đầu tư chấp thuận",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "thicông đặcthù ( phá dỡ công trìnhxây d ựng đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng; cần trục tháp; biện pháp thi công tầng hầm,… ) Kế hoạch tổ chứcthínghi ệm,ki ểmtra,ki ểm định,th ử nghiệm,ch ạyth ử,quantr ắc, đo đạccácthông s ố kỹ thuật của công trình được Chủ đầu tư chấp thuận"
+ "thi công đặc thù (phá dỡ công trình xây dựng đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng; cần trục tháp; biện pháp thi công tầng hầm,…) Kế hoạch tổ chức thí nghiệm, kiểm tra, kiểm định, thử nghiệm, chạy thử, quan trắc, đo đạc các thông số kỹ thuật của công trình được Chủ đầu tư chấp thuận"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -12980,12 +12980,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Tiến độ thi công xây dựng, cung cấp và lắp đặt thiết bị do Nhà thầu lập, được Chủ đầu tư chấp thuận Kế hoạchki ểmtra,nghi ệmthucôngvi ệcxây d ựng,nghi ệmthugiai đoạnthicôngxây d ựngho ặc bộ",
+ "stepName": "Tiến độ thi công xây dựng, cung cấp và lắp đặt thiết bị do Nhà thầu lập, được Chủ đầu tư chấp thuận Kế hoạch kiểm tra, nghiệm thu công việc xây dựng, nghiệm thu giai đoạn thi công xây dựng hoặc bộ",
  "gate": "G12",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "Tiến độ thi công xây dựng, cung cấp và lắp đặt thiết bị do Nhà thầu lập, được Chủ đầu tư chấp thuận Kế hoạchki ểmtra,nghi ệmthucôngvi ệcxây d ựng,nghi ệmthugiai đoạnthicôngxây d ựngho ặc bộ"
+ "Tiến độ thi công xây dựng, cung cấp và lắp đặt thiết bị do Nhà thầu lập, được Chủ đầu tư chấp thuận Kế hoạch kiểm tra, nghiệm thu công việc xây dựng, nghiệm thu giai đoạn thi công xây dựng hoặc bộ"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -13035,12 +13035,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "phận(h ạng mục)công trìnhxây d ựng,nghi ệmthuhoàn thành h ạng mụccông trình,công trìnhxây dựng được Chủ đầu tư chấp thuận Kế hoạch tổng hợp về antoàn ( theoquy định tạiPh ụ lụcIIINgh ịđị nh số 06/2021/NĐ-CP );vi ệc bố trí Người thực hiện công tác quản lý an toàn lao động của Nhà thầu",
+ "stepName": "phận (hạng mục) công trình xây dựng, nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng được Chủ đầu tư chấp thuận Kế hoạch tổng hợp về an toàn (theo quy định tại Phụ lục III Nghị định số 06/2021/NĐ-CP); việc bố trí Người thực hiện công tác quản lý an toàn lao động của Nhà thầu",
  "gate": "G12",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "phận(h ạng mục)công trìnhxây d ựng,nghi ệmthuhoàn thành h ạng mụccông trình,công trìnhxây dựng được Chủ đầu tư chấp thuận Kế hoạch tổng hợp về antoàn ( theoquy định tạiPh ụ lụcIIINgh ịđị nh số 06/2021/NĐ-CP );vi ệc bố trí Người thực hiện công tác quản lý an toàn lao động của Nhà thầu"
+ "phận (hạng mục) công trình xây dựng, nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng được Chủ đầu tư chấp thuận Kế hoạch tổng hợp về an toàn (theo quy định tại Phụ lục III Nghị định số 06/2021/NĐ-CP); việc bố trí Người thực hiện công tác quản lý an toàn lao động của Nhà thầu"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -13090,12 +13090,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Xác định vùng nguy hiểm Báo cáo về biệnpháp đảm bảoantoàn đến cơ quan chuyên môn về xây dựngtrongtr ường hợpthicông xây dựng công trình có vùng nguy hiểm ảnh hưởng lớn đến an toàn cộng đồng",
+ "stepName": "Xác định vùng nguy hiểm Báo cáo về biện pháp đảm bảo an toàn đến cơ quan chuyên môn về xây dựng trong trường hợp thi công xây dựng công trình có vùng nguy hiểm ảnh hưởng lớn đến an toàn cộng đồng",
  "gate": "G12",
  "icon": "👷",
  "input": [],
  "tasks": [
- "Xác định vùng nguy hiểm Báo cáo về biệnpháp đảm bảoantoàn đến cơ quan chuyên môn về xây dựngtrongtr ường hợpthicông xây dựng công trình có vùng nguy hiểm ảnh hưởng lớn đến an toàn cộng đồng"
+ "Xác định vùng nguy hiểm Báo cáo về biện pháp đảm bảo an toàn đến cơ quan chuyên môn về xây dựng trong trường hợp thi công xây dựng công trình có vùng nguy hiểm ảnh hưởng lớn đến an toàn cộng đồng"
  ],
  "output": [
  "Báo cáo / kết quả xử lý tương ứng"
@@ -13231,12 +13231,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Bản vẽ gia công chế tạo (shop drawing) do nhà thầu lập đã được Chủ đầu tư phê duyệt Tờ trìnhphê duyệt vậtli ệu/thiết bị (kèmtheocatalogue, m ẫu vậtli ệu)doNhàth ầutrình đã đượcCh ủ",
+ "stepName": "Bản vẽ gia công chế tạo (shop drawing) do nhà thầu lập đã được Chủ đầu tư phê duyệt Tờ trình phê duyệt vật liệu/thiết bị (kèm theo catalogue, mẫu vật liệu) do Nhà thầu trình đã được Chủ",
  "gate": "G12",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "Bản vẽ gia công chế tạo (shop drawing) do nhà thầu lập đã được Chủ đầu tư phê duyệt Tờ trìnhphê duyệt vậtli ệu/thiết bị (kèmtheocatalogue, m ẫu vậtli ệu)doNhàth ầutrình đã đượcCh ủ"
+ "Bản vẽ gia công chế tạo (shop drawing) do nhà thầu lập đã được Chủ đầu tư phê duyệt Tờ trình phê duyệt vật liệu/thiết bị (kèm theo catalogue, mẫu vật liệu) do Nhà thầu trình đã được Chủ"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -13287,12 +13287,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "đầu tư phê duyệttr ướckhiNhàth ầuth ựchi ệnmua s ắm (đối với vậtli ệu/thiết bị chưacótrong H ợp đồng hoặc thay đổi so với Hợp đồng )",
+ "stepName": "đầu tư phê duyệt trước khi Nhà thầu thực hiện mua sắm (đối với vật liệu/thiết bị chưa có trong Hợp đồng hoặc thay đổi so với Hợp đồng)",
  "gate": "G11",
  "icon": "📑",
  "input": [],
  "tasks": [
- "đầu tư phê duyệttr ướckhiNhàth ầuth ựchi ệnmua s ắm (đối với vậtli ệu/thiết bị chưacótrong H ợp đồng hoặc thay đổi so với Hợp đồng )"
+ "đầu tư phê duyệt trước khi Nhà thầu thực hiện mua sắm (đối với vật liệu/thiết bị chưa có trong Hợp đồng hoặc thay đổi so với Hợp đồng)"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -13442,12 +13442,12 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "stageName": "Giai đoạn thực hiện dự án",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "stepName": "Hồ sơ, quy trình quản lý chất lượng thi công (hệ thống quản lý chất lượng thi công ) của Nhà thầu Hồ sơ,quytrìnhgiámsátch ất lượngvànghi ệmthu ( hệ thốngqu ảnlých ất lượnggiámsát ) của Tư vấn giám sát Thôngbáo về ngàykh ởicôngxây d ựng đến cơ quanqu ảnlýnhà n ước về xây dựng tại địaph ươngvà cơ quan chuyên môn về xây dựng",
+ "stepName": "Hồ sơ, quy trình quản lý chất lượng thi công (hệ thống quản lý chất lượng thi công ) của Nhà thầu Hồ sơ, quy trình giám sát chất lượng và nghiệm thu (hệ thống quản lý chất lượng giám sát) của Tư vấn giám sát Thông báo về ngày khởi công xây dựng đến cơ quan quản lý nhà nước về xây dựng tại địa phương và cơ quan chuyên môn về xây dựng",
  "gate": "G12",
  "icon": "🤝",
  "input": [],
  "tasks": [
- "Hồ sơ, quy trình quản lý chất lượng thi công (hệ thống quản lý chất lượng thi công ) của Nhà thầu Hồ sơ,quytrìnhgiámsátch ất lượngvànghi ệmthu ( hệ thốngqu ảnlých ất lượnggiámsát ) của Tư vấn giám sát Thôngbáo về ngàykh ởicôngxây d ựng đến cơ quanqu ảnlýnhà n ước về xây dựng tại địaph ươngvà cơ quan chuyên môn về xây dựng"
+ "Hồ sơ, quy trình quản lý chất lượng thi công (hệ thống quản lý chất lượng thi công ) của Nhà thầu Hồ sơ, quy trình giám sát chất lượng và nghiệm thu (hệ thống quản lý chất lượng giám sát) của Tư vấn giám sát Thông báo về ngày khởi công xây dựng đến cơ quan quản lý nhà nước về xây dựng tại địa phương và cơ quan chuyên môn về xây dựng"
  ],
  "output": [
  "Bộ hồ sơ tương ứng"
@@ -13585,12 +13585,12 @@ const DATA_PAYLOAD = {
  "stage": "III",
  "stageName": "Giai đoạn kết thúc dự án",
  "group": "Bàn giao công trình",
- "stepName": "Danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế được Tư vấn giám sát xác nhận Biên bảnbàngiaogi ữaNhàth ầuvàChủ đầu tư về bản vẽ hoàncông,quytrình h ướng dẫn vậnhành,",
+ "stepName": "Danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế được Tư vấn giám sát xác nhận Biên bản bàn giao giữa Nhà thầu và Chủ đầu tư về bản vẽ hoàn công, quy trình hướng dẫn vận hành,",
  "gate": "G12",
  "icon": "📦",
  "input": [],
  "tasks": [
- "Danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế được Tư vấn giám sát xác nhận Biên bảnbàngiaogi ữaNhàth ầuvàChủ đầu tư về bản vẽ hoàncông,quytrình h ướng dẫn vậnhành,"
+ "Danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế được Tư vấn giám sát xác nhận Biên bản bàn giao giữa Nhà thầu và Chủ đầu tư về bản vẽ hoàn công, quy trình hướng dẫn vận hành,"
  ],
  "output": [
  "Biên bản / tài liệu xác nhận"
@@ -13627,12 +13627,12 @@ const DATA_PAYLOAD = {
  "stage": "III",
  "stageName": "Giai đoạn kết thúc dự án",
  "group": "Bàn giao công trình",
- "stepName": "quytrình b ảotrìcông trình,danh m ụccácthi ết bị,ph ụ tùng, vật tư dự trữ thayth ế vàcáctàili ệu cần thiết khác có liên quan",
+ "stepName": "quy trình bảo trì công trình, danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế và các tài liệu cần thiết khác có liên quan",
  "gate": "G16",
  "icon": "📦",
  "input": [],
  "tasks": [
- "quytrình b ảotrìcông trình,danh m ụccácthi ết bị,ph ụ tùng, vật tư dự trữ thayth ế vàcáctàili ệu cần thiết khác có liên quan"
+ "quy trình bảo trì công trình, danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế và các tài liệu cần thiết khác có liên quan"
  ],
  "output": [
  "Hồ sơ / sản phẩm đầu ra tương ứng"
@@ -14068,12 +14068,12 @@ const DATA_PAYLOAD = {
  "stage": "III",
  "stageName": "Giai đoạn kết thúc dự án",
  "group": "Kiểm toán",
- "stepName": "Báo cáo kết quả kiểm toán Báo cáo c ủaChủ đầu tư kèmcáctàili ệuliênquan về tìnhhìnhch ấphànhcácki ếnngh ị củaKi ểmtoán (nếu có)",
+ "stepName": "Báo cáo kết quả kiểm toán Báo cáo của Chủ đầu tư kèm các tài liệu liên quan về tình hình chấp hành các kiến nghị của Kiểm toán (nếu có)",
  "gate": "G15",
  "icon": "🔎",
  "input": [],
  "tasks": [
- "Báo cáo kết quả kiểm toán Báo cáo c ủaChủ đầu tư kèmcáctàili ệuliênquan về tìnhhìnhch ấphànhcácki ếnngh ị củaKi ểmtoán (nếu có)"
+ "Báo cáo kết quả kiểm toán Báo cáo của Chủ đầu tư kèm các tài liệu liên quan về tình hình chấp hành các kiến nghị của Kiểm toán (nếu có)"
  ],
  "output": [
  "Báo cáo / kết quả xử lý tương ứng"
@@ -15751,7 +15751,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G4",
  "group": "Đánh giá tác động môi trường (ĐTM)",
- "item": "I.9.4 - Quyết định phê duyệt ĐTM Khảosátph ục vụ thiết kế cơ sở (cóth ể bao gồmkhảosát địahình,khảosát địach ấtcông trình, khảo sát hiện trạng công trình), tương ứng với mỗi loại khảo sát gồm:",
+ "item": "I.9.4 - Quyết định phê duyệt ĐTM Khảo sát phục vụ thiết kế cơ sở (có thể bao gồm khảo sát địa hình, khảo sát địa chất công trình, khảo sát hiện trạng công trình), tương ứng với mỗi loại khảo sát gồm:",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Cơ quan môi trường / Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -15835,7 +15835,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G5",
  "group": "Quyết định đầu tư",
- "item": "I.11.2 - Báo cáo kết quả thẩm tra nếu có theo yêu cầu của cơ quan chuyên môn về xây dựng Văn bản ý kiến của cơ quanCông an về giải phápphòng cháy,chữa cháygiai đoạnthiết kế cơ sở (nếu có) (theo Luật PCCC năm 2024 bỏ thủ tục này, thực tế một số DA vẫn thực hiện xin ý kiến ) Các văn bảnthỏa thuận,xác nhận vềđấu nối hạ tầng kỹ thuật của dự án (gồm: cấp điện, cấp nước, thoát nước thải, đấu nối giao thông, các văn bản thỏa thuận về kết nối hạ tầng khác nếu có ):",
+ "item": "I.11.2 - Báo cáo kết quả thẩm tra nếu có theo yêu cầu của cơ quan chuyên môn về xây dựng Văn bản ý kiến của cơ quan Công an về giải pháp phòng cháy, chữa cháy giai đoạn thiết kế cơ sở (nếu có) (theo Luật PCCC năm 2024 bỏ thủ tục này, thực tế một số DA vẫn thực hiện xin ý kiến ) Các văn bản thỏa thuận, xác nhận về đấu nối hạ tầng kỹ thuật của dự án (gồm: cấp điện, cấp nước, thoát nước thải, đấu nối giao thông, các văn bản thỏa thuận về kết nối hạ tầng khác nếu có ):",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Cơ quan PCCC / Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -15919,7 +15919,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G5",
  "group": "Quyết định đầu tư",
- "item": "I.11.8 - Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo kết quả thẩm định (gồm:BCNCKTvà b ản vẽ",
+ "item": "I.11.8 - Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứu khả thi đã chỉnh sửa, hoàn thiện theo kết quả thẩm định (gồm: BCNCKT và bản vẽ",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -15931,7 +15931,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G2",
  "group": "Quyết định đầu tư",
- "item": "I.11.9 - TKCS đã được đóng dấuthẩm định của cơ quan chuyên môn về xây dựng; tổng mức đầu tư;danh m ục tiêu chuẩn áp dụng cho dự án )",
+ "item": "I.11.9 - TKCS đã được đóng dấu thẩm định của cơ quan chuyên môn về xây dựng; tổng mức đầu tư; danh mục tiêu chuẩn áp dụng cho dự án )",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Chủ đầu tư",
  "status": "unchecked",
@@ -15991,7 +15991,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G5",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "item": "I.13.2 - Báo cáo kết quả thẩm tra nếu có theo yêu cầu của cơ quan chuyên môn về xây dựng Văn bản ý kiến của cơ quanCông an về giải phápphòng cháy,chữa cháygiai đoạnthiết kế cơ sở điều",
+ "item": "I.13.2 - Báo cáo kết quả thẩm tra nếu có theo yêu cầu của cơ quan chuyên môn về xây dựng Văn bản ý kiến của cơ quan Công an về giải pháp phòng cháy, chữa cháy giai đoạn thiết kế cơ sở điều",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Cơ quan PCCC / Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16003,7 +16003,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G5",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "item": "I.13.3 - chỉnh(nếu có) ( theoLu ậtPCCC n ăm2024 đã bỏ thủ tụcnày,tuynhiênth ực tế có một số DA vẫnth ực hiện xin ý kiến )",
+ "item": "I.13.3 - chỉnh (nếu có) (theo Luật PCCC năm 2024 đã bỏ thủ tục này, tuy nhiên thực tế có một số DA vẫn thực hiện xin ý kiến)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Cơ quan PCCC",
  "status": "unchecked",
@@ -16027,7 +16027,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G5",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "item": "I.13.5 - Báo cáo thẩm định nội bộ của Chủ đầu tư về việc điều chỉnh dự án đầu tư xây dựng công trình Kếtqu ả thẩm định của cơ quan chuyên môn về xây dựng (nếucótheoquy định tạikho ản 2 Điều19 Nghị định số 59/2021/NĐ-CP )",
+ "item": "I.13.5 - Báo cáo thẩm định nội bộ của Chủ đầu tư về việc điều chỉnh dự án đầu tư xây dựng công trình Kết quả thẩm định của cơ quan chuyên môn về xây dựng (nếu có theo quy định tại khoản 2 Điều 19 Nghị định số 59/2021/NĐ-CP)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Chủ đầu tư",
  "status": "unchecked",
@@ -16039,7 +16039,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G5",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "item": "I.13.6 - Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư BCNCKT điều chỉnh (trong đó bản vẽ thiết kế cơ sở điều chỉnh đã được đóng dấuthẩm định của cơ quan chuyên môn về xây dựng (nếu có) )",
+ "item": "I.13.6 - Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư BCNCKT điều chỉnh (trong đó bản vẽ thiết kế cơ sở điều chỉnh đã được đóng dấu thẩm định của cơ quan chuyên môn về xây dựng (nếu có))",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16051,7 +16051,7 @@ const DATA_PAYLOAD = {
  "stage": "I",
  "gate": "G5",
  "group": "Quyết định đầu tư điều chỉnh (nếu có)",
- "item": "I.13.8 - Quyết định phê duyệt điều chỉnh dự án đầu tư xây dựng Cáctàili ệukháccóliênquantronggiai đoạnchu ẩn bịđầ u tư xây dựng(l ậpdanh m ụcchiti ết kèm theo)",
+ "item": "I.13.8 - Quyết định phê duyệt điều chỉnh dự án đầu tư xây dựng Các tài liệu khác có liên quan trong giai đoạn chuẩn bị đầu tư xây dựng (lập danh mục chi tiết kèm theo)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Chủ đầu tư",
  "status": "unchecked",
@@ -16399,7 +16399,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.1.4 - Văn bản thông báo chấp thuận nghiệm thu kết quả khảo sát xây dựng. Thiết kế kỹ thuật(tr ường hợpthiết kế 03 bước)/thiết kế bản vẽ thicông(tr ường hợpthiết kế 02 bước) và dự toán xây dựng công trình tương ứng",
+ "item": "II.5.1.4 - Văn bản thông báo chấp thuận nghiệm thu kết quả khảo sát xây dựng. Thiết kế kỹ thuật (trường hợp thiết kế 03 bước)/thiết kế bản vẽ thi công (trường hợp thiết kế 02 bước) và dự toán xây dựng công trình tương ứng",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng / Chủ đầu tư",
  "status": "unchecked",
@@ -16423,7 +16423,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.2.2 - Tờ trình thẩm định Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng )",
+ "item": "II.5.2.2 - Tờ trình thẩm định Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16507,7 +16507,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G5",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.2.11 - Kết quả thẩm định dự toán của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bảntính; các b ản vẽ",
+ "item": "II.5.2.11 - Kết quả thẩm định dự toán của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bản tính; các b ản vẽ",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16579,7 +16579,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.3 - Thiết kế bản vẽ thi công (trường hợp thiết kế 03 bước) và dự toán xây dựng công trình tương ứng Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng )",
+ "item": "II.5.3 - Thiết kế bản vẽ thi công (trường hợp thiết kế 03 bước) và dự toán xây dựng công trình tương ứng Báo cáo kết quả thẩm tra thiết kế (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng / Tư vấn giám sát / Chủ đầu tư",
  "status": "unchecked",
@@ -16591,7 +16591,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.3.1 - Báo cáo kết quả thẩm tra dự toán Hồ sơ thiết kế đãch ỉnh sửa,hoànthi ệnsauthẩmtravà đã được đóng dấuthẩmtra,Chủ đầu tư phê duyệt; có kèm theo danh mục bản vẽ",
+ "item": "II.5.3.1 - Báo cáo kết quả thẩm tra dự toán Hồ sơ thiết kế đã chỉnh sửa, hoàn thiện sau thẩm tra và đã được đóng dấu thẩm tra,Chủ đầu tư phê duyệt; có kèm theo danh mục bản vẽ",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16651,7 +16651,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.4 - Thiết kế, dự toán điều chỉnh (nếu có) Tờ trình thẩm định (trường hợpcóthay đổi vềđị ach ấtcông trình, t ảitr ọngthiết kế,gi ảipháp k ết cấu,",
+ "item": "II.5.4 - Thiết kế, dự toán điều chỉnh (nếu có) Tờ trình thẩm định (trường hợp có thay đổi về địa chất công trình, tải trọng thiết kế, giải pháp kết cấu,",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16663,7 +16663,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.4.1 - vậtli ệu của kết cấuch ịu lực,bi ệnpháp t ổ chứcthicông ảnh hưởng đến an toànch ịu lực củacông trình ) Báo cáo kết quả thẩm tra thiết kế điều chỉnh (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)",
+ "item": "II.5.4.1 - vật liệu của kết cấu chịu lực, biện pháp tổ chức thi công ảnh hưởng đến an toàn chịu lực của công trình) Báo cáo kết quả thẩm tra thiết kế điều chỉnh (đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16747,7 +16747,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G5",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.4.10 - Kết quả thẩm định dự toán điều chỉnh của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế điều chỉnh đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bảntính;",
+ "item": "II.5.4.10 - Kết quả thẩm định dự toán điều chỉnh của Chủ đầu tư/Người quyết định đầu tư Hồ sơ thiết kế điều chỉnh đã chỉnh sửa, hoàn thiện sau thẩm định (gồm thuyết minh thiết kế, bản tính;",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16759,7 +16759,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.4.11 - các bản vẽ thiết kế đã được đóng dấuthẩm định của cơ quan chuyên môn về xây dựng;ch ỉ dẫn kỹ thuật và quy trình bảo trì công trình xây dựng ), có kèm theo danh mục bản vẽ",
+ "item": "II.5.4.11 - các bản vẽ thiết kế đã được đóng dấu thẩm định của cơ quan chuyên môn về xây dựng; chỉ dẫn kỹ thuật và quy trình bảo trì công trình xây dựng), có kèm theo danh mục bản vẽ",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16771,7 +16771,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.4.12 - Hồ sơ dự toán điều chỉnh đã chỉnh sửa, hoàn thiện sau thẩm định Chấpthu ận củaNg ườiquy ết định đầu tư (trường hợpvi ệc điều chỉnhlàm v ượt dự toán đãphê duyệt",
+ "item": "II.5.4.12 - Hồ sơ dự toán điều chỉnh đã chỉnh sửa, hoàn thiện sau thẩm định Chấp thuận của Người quyết định đầu tư (trường hợp việc điều chỉnh làm vượt dự toán đã phê duyệt",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16783,7 +16783,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G2",
  "group": "Khảo sát, thiết kế và dự toán xây dựng công trình",
- "item": "II.5.4.13 - nhưngkhông v ượt tổng mức đầu tư )/Báo cáo c ủaChủ đầu tư (trường hợpvi ệc điều chỉnhkhông v ượt dự toán đã phê duyệt nhưng làm thay đổi cơ cấu các khoản mục chi phí trong tổng mức đầu tư )",
+ "item": "II.5.4.13 - nhưng không vượt tổng mức đầu tư)/Báo cáo của Chủ đầu tư (trường hợp việc điều chỉnh không vượt dự toán đã phê duyệt nhưng làm thay đổi cơ cấu các khoản mục chi phí trong tổng mức đầu tư)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -16855,7 +16855,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G10",
  "group": "Lựa chọn nhà thầu",
- "item": "II.6.1 - Chỉ định thầu rút gọn Dự toángóith ầu đượcChủ đầu tư xác định (nếucótrongtr ường hợp đãcó d ự toánxây d ựngcông trình ) Văn bản đề nghị thamgiagóith ầu củaNhàth ầu (kèmtheotàili ệuch ứngminh điềuki ện năng lực của tổ chức và cá nhân theo quy định )",
+ "item": "II.6.1 - Chỉ định thầu rút gọn Dự toán gói thầu được Chủ đầu tư xác định (nếu có trong trường hợp đã có dự toán xây dựng công trình) Văn bản đề nghị tham gia gói thầu của Nhà thầu (kèm theo tài liệu chứng minh điều kiện năng lực của tổ chức và cá nhân theo quy định)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng / Tổ thẩm định đấu thầu",
  "status": "unchecked",
@@ -17035,7 +17035,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G10",
  "group": "Lựa chọn nhà thầu",
- "item": "II.6.2.6 - Văn bản gửi Nhà thầu đề nghị lập Hồ sơ đề xuất Hồ sơđề xuất củaNhàth ầu (bao gồm cả tàili ệuch ứngminh điềuki ện năng lực của tổ chứcvàcá nhân theo quy định )",
+ "item": "II.6.2.6 - Văn bản gửi Nhà thầu đề nghị lập Hồ sơ đề xuất Hồ sơ đề xuất của Nhà thầu (bao gồm cả tài liệu chứng minh điều kiện năng lực của tổ chức và cá nhân theo quy định)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu",
  "status": "unchecked",
@@ -17239,7 +17239,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G10",
  "group": "Lựa chọn nhà thầu",
- "item": "II.6.3.4 - Tài liệu đăng tải thông tin mời thầu Pháthành h ồ sơ mờith ầu(Danhsáchho ặcbiên b ảngiaonh ận,phi ếuthucácnhàth ầumua h ồ sơ mời thầu đến trước thời điểm đóng thầu)",
+ "item": "II.6.3.4 - Tài liệu đăng tải thông tin mời thầu Phát hành hồ sơ mời thầu (Danh sách hoặc biên bản giao nhận, phiếu thu các nhà thầu mua hồ sơ mời thầu đến trước thời điểm đóng thầu)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu",
  "status": "unchecked",
@@ -17359,7 +17359,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G10",
  "group": "Lựa chọn nhà thầu",
- "item": "II.6.3.15 - Quyết định phê duyệt/Văn bản chấp thuận danh sách nhà thầu đáp ứng về kỹ thuật. Thôngbáodanhsáchnhàth ầu đáp ứng kỹ thuật tới tất cả cácnhàth ầu, mờinhàth ầu đến mở hồ sơđề xuất tài chính.",
+ "item": "II.6.3.15 - Quyết định phê duyệt/Văn bản chấp thuận danh sách nhà thầu đáp ứng về kỹ thuật. Thông báo danh sách nhà thầu đáp ứng kỹ thuật tới tất cả các nhà thầu, mời nhà thầu đến mở hồ sơ đề xuất tài chính.",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu",
  "status": "unchecked",
@@ -17527,7 +17527,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Hợp đồng, các Phụ lục Hợp đồng trong quá trình thực hiện",
- "item": "II.7.1 - Hợp đồng CácPh ụ lục Hợp đồng nếucó ( điều chỉnh, bổ sungkh ối lượng, nộidungcôngvi ệc;ti ến độ;giá Hợp đồng; các điều khoản Hợp đồng)",
+ "item": "II.7.1 - Hợp đồng Các Phụ lục Hợp đồng nếu có (điều chỉnh, bổ sung khối lượng, nội dung công việc; tiến độ; giá Hợp đồng; các điều khoản Hợp đồng)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Chủ đầu tư / Người quyết định đầu tư khi vượt thẩm quyền",
  "status": "unchecked",
@@ -17539,7 +17539,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Hợp đồng, các Phụ lục Hợp đồng trong quá trình thực hiện",
- "item": "II.7.2 - Văn bản của Chủ đầu tư giao Nhà thầu thực hiện bổ sung nội dung công việc Văn bản đề xuất củaNhàth ầu về tiến độ,giá H ợp đồng điều chỉnh (kèmtheobi ểugiáchiti ết đề xuất, tài liệu chứng minh đơn giá đề xuất )",
+ "item": "II.7.2 - Văn bản của Chủ đầu tư giao Nhà thầu thực hiện bổ sung nội dung công việc Văn bản đề xuất của Nhà thầu về tiến độ, giá Hợp đồng điều chỉnh (kèm theo biểu giá chi tiết đề xuất, tài liệu chứng minh đơn giá đề xuất)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu",
  "status": "unchecked",
@@ -17551,7 +17551,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Hợp đồng, các Phụ lục Hợp đồng trong quá trình thực hiện",
- "item": "II.7.2.2 - Biên bản thương thảo điều chỉnh Hợp đồng Văn bảnchấp thuận củaNg ườiquy ết định đầu tư trongtr ường hợp:(i) B ổ sungkh ối lượngphátsinh",
+ "item": "II.7.2.2 - Biên bản thương thảo điều chỉnh Hợp đồng Văn bản chấp thuận của Người quyết định đầu tư trong trường hợp: (i) Bổ sung khối lượng phát sinh",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Chủ đầu tư / Người quyết định đầu tư khi vượt thẩm quyền",
  "status": "unchecked",
@@ -17563,7 +17563,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Hợp đồng, các Phụ lục Hợp đồng trong quá trình thực hiện",
- "item": "II.7.2.4 - ngoàiph ạmvicôngvi ệc củagóith ầu;ho ặc(ii) V ượtgiágóith ầuho ặc dự toángóith ầu đượcphê duyệt; hoặc (iii) Trường hợp điều chỉnh tiến độ làm kéo dài tiến độ thực hiện hợp đồng",
+ "item": "II.7.2.4 - ngoài phạm vi công việc của gói thầu; hoặc (ii) Vượt giá gói thầu hoặc dự toán gói thầu được phê duyệt; hoặc (iii) Trường hợp điều chỉnh tiến độ làm kéo dài tiến độ thực hiện hợp đồng",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
  "status": "unchecked",
@@ -17731,7 +17731,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.8.2 - Các công việc tư vấn khác Biên bảnbàngiao s ảnph ẩm tư vấn(h ồ sơ thiết kế, dự toán/báo cáo kết quả thẩmtra/Báo cáocôngtác giám sát,…)",
+ "item": "II.8.2 - Các công việc tư vấn khác Biên bản bàn giao sản phẩm tư vấn (hồ sơ thiết kế, dự toán/báo cáo kết quả thẩm tra/Báo cáo công tác giám sát,…)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng / Tư vấn giám sát / Chủ đầu tư",
  "status": "unchecked",
@@ -17791,7 +17791,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.b - Biên bản bàn giao hồ sơ thiết kế (bao gồm thiết kế bản vẽ thi công ) đã được phê duyệt cho Nhà thầu Biên bảnbàngiao h ồ sơ thiết kế; hồ sơ mờith ầu, hồ sơ dự thầu củaNhàth ầutrúngth ầu,Biên b ản thương thảo và Hợp đồng, phụ lục Hợp đồng cho Tư vấn giám sát",
+ "item": "II.b - Biên bản bàn giao hồ sơ thiết kế (bao gồm thiết kế bản vẽ thi công ) đã được phê duyệt cho Nhà thầu Biên bản bàn giao hồ sơ thiết kế; hồ sơ mời thầu, hồ sơ dự thầu của Nhà thầu trúng thầu,Biên b ản thương thảo và Hợp đồng, phụ lục Hợp đồng cho Tư vấn giám sát",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng / Tổ thẩm định đấu thầu",
  "status": "unchecked",
@@ -17803,7 +17803,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.c - Biên bản bàn giao mặt bằng, mốc trắc đạc cho Nhà thầu thi công, thể hiện phạm vi, tọa độ, cao độ Biệnphápthicôngdonhàth ầu lập (bao gồm cả biệnpháp b ảo vệ môi trường,phòngch ốngcháy n ổ,",
+ "item": "II.c - Biên bản bàn giao mặt bằng, mốc trắc đạc cho Nhà thầu thi công, thể hiện phạm vi, tọa độ, cao độ Biện pháp thi công do nhà thầu lập (bao gồm cả biện pháp bảo vệ môi trường, phòng chống cháy nổ,",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu / Tư vấn giám sát / Chủ đầu tư",
  "status": "unchecked",
@@ -17815,7 +17815,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.e - biệnpháp đảm bảoantoànchiti ết;bi ệnphápki ểmtra,ki ểmsoátch ất lượng vậtli ệu, sảnph ẩm, cấu kiện, thiết bị được sử dụng cho công trình ) đã được Chủ đầu tư chấp thuận Kếtqu ả thẩmtra c ủa tổ chức tư vấn đủ điềuki ện năng lực,phê duyệt củaChủ đầu tưđố i vớibi ệnpháp",
+ "item": "II.e - biện pháp đảm bảo an toàn chi tiết; biện pháp kiểm tra, kiểm soát chất lượng vật liệu, sản phẩm, cấu kiện, thiết bị được sử dụng cho công trình) đã được Chủ đầu tư chấp thuận Kết quả thẩm tra của tổ chức tư vấn đủ điều kiện năng lực, phê duyệt của Chủ đầu tư đối với biện pháp",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -17827,7 +17827,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.f - thicông đặcthù ( phá dỡ công trìnhxây d ựng đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng; cần trục tháp; biện pháp thi công tầng hầm,… ) Kế hoạch tổ chứcthínghi ệm,ki ểmtra,ki ểm định,th ử nghiệm,ch ạyth ử,quantr ắc, đo đạccácthông s ố kỹ thuật của công trình được Chủ đầu tư chấp thuận",
+ "item": "II.f - thi công đặc thù (phá dỡ công trình xây dựng đối với công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng; cần trục tháp; biện pháp thi công tầng hầm,…) Kế hoạch tổ chức thí nghiệm, kiểm tra, kiểm định, thử nghiệm, chạy thử, quan trắc, đo đạc các thông số kỹ thuật của công trình được Chủ đầu tư chấp thuận",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -17839,7 +17839,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.g - Tiến độ thi công xây dựng, cung cấp và lắp đặt thiết bị do Nhà thầu lập, được Chủ đầu tư chấp thuận Kế hoạchki ểmtra,nghi ệmthucôngvi ệcxây d ựng,nghi ệmthugiai đoạnthicôngxây d ựngho ặc bộ",
+ "item": "II.g - Tiến độ thi công xây dựng, cung cấp và lắp đặt thiết bị do Nhà thầu lập, được Chủ đầu tư chấp thuận Kế hoạch kiểm tra, nghiệm thu công việc xây dựng, nghiệm thu giai đoạn thi công xây dựng hoặc bộ",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu / Tư vấn giám sát / Chủ đầu tư",
  "status": "unchecked",
@@ -17851,7 +17851,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.i - phận(h ạng mục)công trìnhxây d ựng,nghi ệmthuhoàn thành h ạng mụccông trình,công trìnhxây dựng được Chủ đầu tư chấp thuận Kế hoạch tổng hợp về antoàn ( theoquy định tạiPh ụ lụcIIINgh ịđị nh số 06/2021/NĐ-CP );vi ệc bố trí Người thực hiện công tác quản lý an toàn lao động của Nhà thầu",
+ "item": "II.i - phận (hạng mục) công trình xây dựng, nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng được Chủ đầu tư chấp thuận Kế hoạch tổng hợp về an toàn (theo quy định tại Phụ lục III Nghị định số 06/2021/NĐ-CP); việc bố trí Người thực hiện công tác quản lý an toàn lao động của Nhà thầu",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu / Tư vấn giám sát / Chủ đầu tư",
  "status": "unchecked",
@@ -17863,7 +17863,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.j - Xác định vùng nguy hiểm Báo cáo về biệnpháp đảm bảoantoàn đến cơ quan chuyên môn về xây dựngtrongtr ường hợpthicông xây dựng công trình có vùng nguy hiểm ảnh hưởng lớn đến an toàn cộng đồng",
+ "item": "II.j - Xác định vùng nguy hiểm Báo cáo về biện pháp đảm bảo an toàn đến cơ quan chuyên môn về xây dựng trong trường hợp thi công xây dựng công trình có vùng nguy hiểm ảnh hưởng lớn đến an toàn cộng đồng",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -17899,7 +17899,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.o - Bản vẽ gia công chế tạo (shop drawing) do nhà thầu lập đã được Chủ đầu tư phê duyệt Tờ trìnhphê duyệt vậtli ệu/thiết bị (kèmtheocatalogue, m ẫu vậtli ệu)doNhàth ầutrình đã đượcCh ủ",
+ "item": "II.o - Bản vẽ gia công chế tạo (shop drawing) do nhà thầu lập đã được Chủ đầu tư phê duyệt Tờ trình phê duyệt vật liệu/thiết bị (kèm theo catalogue, mẫu vật liệu) do Nhà thầu trình đã được Chủ",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu / Tư vấn giám sát / Chủ đầu tư",
  "status": "unchecked",
@@ -17911,7 +17911,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.p - đầu tư phê duyệttr ướckhiNhàth ầuth ựchi ệnmua s ắm (đối với vậtli ệu/thiết bị chưacótrong H ợp đồng hoặc thay đổi so với Hợp đồng )",
+ "item": "II.p - đầu tư phê duyệt trước khi Nhà thầu thực hiện mua sắm (đối với vật liệu/thiết bị chưa có trong Hợp đồng hoặc thay đổi so với Hợp đồng)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -17947,7 +17947,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.s - Hồ sơ, quy trình quản lý chất lượng thi công (hệ thống quản lý chất lượng thi công ) của Nhà thầu Hồ sơ,quytrìnhgiámsátch ất lượngvànghi ệmthu ( hệ thốngqu ảnlých ất lượnggiámsát ) của Tư vấn giám sát Thôngbáo về ngàykh ởicôngxây d ựng đến cơ quanqu ảnlýnhà n ước về xây dựng tại địaph ươngvà cơ quan chuyên môn về xây dựng",
+ "item": "II.s - Hồ sơ, quy trình quản lý chất lượng thi công (hệ thống quản lý chất lượng thi công ) của Nhà thầu Hồ sơ, quy trình giám sát chất lượng và nghiệm thu (hệ thống quản lý chất lượng giám sát) của Tư vấn giám sát Thông báo về ngày khởi công xây dựng đến cơ quan quản lý nhà nước về xây dựng tại địa phương và cơ quan chuyên môn về xây dựng",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu / Tư vấn giám sát / Chủ đầu tư",
  "status": "unchecked",
@@ -18007,7 +18007,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.a3 - Tài liệu công bố tiêu chuẩn áp dụng của Nhà sản xuất đối với sản phẩm, hàng hóa Chứngnh ận hợpquy,công b ố hợpquy,thôngbáoti ếpnh ận hồ sơ công bố hợpquy c ủa cơ quan",
+ "item": "II.a3 - Tài liệu công bố tiêu chuẩn áp dụng của Nhà sản xuất đối với sản phẩm, hàng hóa Chứng nhận hợp quy, công bố hợp quy, thông báo tiếp nhận hồ sơ công bố hợp quy của cơ quan",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -18019,7 +18019,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.a4 - chuyênngành;ch ứngnh ận hợpchu ẩnvàcông b ố hợpchu ẩn(nếu có)theoquy định củaLu ậtCh ất lượng sản phẩm hàng hóa",
+ "item": "II.a4 - chuyên ngành; chứng nhận hợp chuẩn và công bố hợp chuẩn (nếu có) theo quy định của Luật Chất lượng sản phẩm hàng hóa",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -18031,7 +18031,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.a5 - Kết quả thí nghiệm vật liệu/kiểm định thiết bị Giấych ứngnh ậnxu ất xứ (CO) đối với vậtli ệu/thiết bị nhậpkh ẩu;Biên b ảngiaonh ậnhànghóa đối với hàng hóa trong nước",
+ "item": "II.a5 - Kết quả thí nghiệm vật liệu/kiểm định thiết bị Giấy chứng nhận xuất xứ (CO) đối với vật liệu/thiết bị nhập khẩu; Biên bản giao nhận hàng hóa đối với hàng hóa trong nước",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -18163,7 +18163,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G9",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.b7 - Báo cáo giám sát định kỳ/giai đoạn của Tư vấn giám sát Nghiệm thu bộ phận, giai đoạn hoàn thành (nếu có); nghiệm thu hoàn thành công trình để đưa vào sử dụng Cácthay đổithiết kế trongquátrìnhthicôngxây d ựngcông trình vàcác v ăn bảnthẩm định,phê duyệt của cấp có thẩm quyền (lập danh mục kèm theo )",
+ "item": "II.b7 - Báo cáo giám sát định kỳ/giai đoạn của Tư vấn giám sát Nghiệm thu bộ phận, giai đoạn hoàn thành (nếu có); nghiệm thu hoàn thành công trình để đưa vào sử dụng Các thay đổi thiết kế trong quá trình thi công xây dựng công trình và các văn bản thẩm định, phê duyệt của cấp có thẩm quyền (lập danh mục kèm theo)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng / Tư vấn giám sát / Chủ đầu tư",
  "status": "unchecked",
@@ -18199,7 +18199,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.c4 - Biên bản nghiệm thu bộ phận, giai đoạn hoàn thành của Chủ đầu tư Báo cáo c ủaChủ đầu tư gửi cơ quan chuyên môn về xây dựng để thựchi ệnki ểmtracôngtácnghi ệm thu theo quy định trong quá trình thi công Thôngbáo kết quả kiểmtra c ủa cơ quan chuyên môn về xây dựngtrongquátrìnhthicôngxây d ựng công trình",
+ "item": "II.c4 - Biên bản nghiệm thu bộ phận, giai đoạn hoàn thành của Chủ đầu tư Báo cáo của Chủ đầu tư gửi cơ quan chuyên môn về xây dựng để thực hiện kiểm tra công tác nghiệm thu theo quy định trong quá trình thi công Thông báo kết quả kiểm tra của cơ quan chuyên môn về xây dựng trong quá trình thi công xây dựng công trình",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -18235,7 +18235,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.c9 - Kết quả quan trắc công trình (nếu có), đo đạc trong quá trình thi công. Các kếtqu ả thínghi ệm đốich ứng,ki ểm địnhch ất lượngcông trình,thínghi ệmkhả năngch ịu lực kết cấu xây dựng (nếu có)",
+ "item": "II.c9 - Kết quả quan trắc công trình (nếu có), đo đạc trong quá trình thi công. Các kết quả thí nghiệm đối chứng, kiểm định chất lượng công trình, thí nghiệm khả năng chịu lực kết cấu xây dựng (nếu có)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -18355,7 +18355,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.c20 - Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu về PCCC của cơ quan Công an Biên bảnki ểmtravà V ăn bảnchấp thuậnnghi ệmthu đưacông trình b ảo vệ môi trườngvào s ử dụng của cơ quan QLNN về môi trường (nếu có) Biên bảnki ểmtravà V ăn bảnxác nhận của các t ổ chức, cơ quanQLNNcóthẩmquy ền về antoàn v ận hành hệ thống thiết bị công trình, thiết bị công nghệ (nếu có)",
+ "item": "II.c20 - Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu về PCCC của cơ quan Công an Biên bản kiểm tra và Văn bản chấp thuận nghiệm thu đưa công trình bảo vệ môi trường vào sử dụng của cơ quan QLNN về môi trường (nếu có) Biên bản kiểm tra và Văn bản xác nhận của các tổ chức, cơ quan QLNN có thẩm quyền về an toàn vận hành hệ thống thiết bị công trình, thiết bị công nghệ (nếu có)",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Cơ quan môi trường / Cơ quan PCCC",
  "status": "unchecked",
@@ -18427,7 +18427,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Hồ sơ chất lượng (Hồ sơ thi công - nghiệm thu)",
- "item": "II.c28 - Phụ lục các tồn tại cần sửa chữa, khắc phục (nếu có) sau khi đưa công trình vào khai thác sử dụng Các hồ sơ/văn bản/tàili ệukhácliênquantrongquátrìnhthicôngxây d ựng (lậpdanh m ụcchiti ếtkèm theo ) Biên bảnki ểmtravà V ăn bảnchấp thuậncông trình đủ điềuki ệnvào s ử dụng của cơ quan chuyên môn về xây dựng",
+ "item": "II.c28 - Phụ lục các tồn tại cần sửa chữa, khắc phục (nếu có) sau khi đưa công trình vào khai thác sử dụng Các hồ sơ/văn bản/tài liệu khác liên quan trong quá trình thi công xây dựng (lập danh mục chi tiết kèm theo) Biên bản kiểm tra và Văn bản chấp thuận công trình đủ điều kiện vào sử dụng của cơ quan chuyên môn về xây dựng",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Nhà thầu",
  "checkedBy": "Tư vấn giám sát / Chủ đầu tư / Chủ đầu tư",
  "status": "unchecked",
@@ -18451,7 +18451,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G14",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "item": "II.9 - Công tác tạm ứng, thanh toán, quyết toán Bảng tổng hợp lũy kế giátr ị giảingân củatoàn b ộ Dự án từngthángtheo t ừngkho ản mụcchiphí/gói thầu/phần việc",
+ "item": "II.9 - Công tác tạm ứng, thanh toán, quyết toán Bảng tổng hợp lũy kế giá trị giải ngân của toàn bộ Dự án từng tháng theo từng khoản mục chi phí/gói thầu/phần việc",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
  "status": "unchecked",
@@ -18463,7 +18463,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "item": "II.9.1 - Hồ sơ tạm ứng (từng đợt) Văn bảnchấp thuận của cấpcóthẩmquy ền về việcchophép t ạm ứng vượtquá30%giátr ị hợp đồng (bao gồm cả dự phòng nếu có)",
+ "item": "II.9.1 - Hồ sơ tạm ứng (từng đợt) Văn bản chấp thuận của cấp có thẩm quyền về việc cho phép tạm ứng vượt quá 30% giá trị hợp đồng (bao gồm cả dự phòng nếu có)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
  "status": "unchecked",
@@ -18511,7 +18511,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "item": "II.9.2.5 - Bảo lãnh thực hiện Hợp đồng Văn bảncam k ết củaNgânhàng về việcch ỉđượ cphépkh ấutr ừ vàthanhtoánchocáccôngvi ệcliên quan đến dự án (nếu Hợp đồng có quy định )",
+ "item": "II.9.2.5 - Bảo lãnh thực hiện Hợp đồng Văn bản cam kết của Ngân hàng về việc chỉ được phép khấu trừ và thanh toán cho các công việc liên quan đến dự án (nếu Hợp đồng có quy định)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
  "status": "unchecked",
@@ -18535,7 +18535,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G14",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "item": "II.9.3 - Hồ sơ thanh toán (từng đợt) Văn bản đề nghị thanhtoán c ủaNhàth ầukèmtheoBiên b ảngiaonh ận hồ sơ (liệtkêchiti ếtdanh m ục hồ sơ )",
+ "item": "II.9.3 - Hồ sơ thanh toán (từng đợt) Văn bản đề nghị thanh toán của Nhà thầu kèm theo Biên bản giao nhận hồ sơ (liệt kê chi tiết danh mục hồ sơ)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
  "status": "unchecked",
@@ -18547,7 +18547,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G12",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "item": "II.9.3.1 - Hồ sơ chất lượng (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthukh ối lượngcôngvi ệchoàn thành t ương ứng vớigiai đoạnthànhtoán đã được đại",
+ "item": "II.9.3.1 - Hồ sơ chất lượng (đề cập tại Mục 8 Phần II trên đây ) Biên bản nghiệm thu khối lượng công việc hoàn thành tương ứng với giai đoạn thanh toán đã được đại",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
  "status": "unchecked",
@@ -18559,7 +18559,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G14",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "item": "II.9.3.3 - diệnNhàth ầu, đạidi ện Tư vấngiámsátvà đạidi ệnChủ đầu tư ký, đóng dấu (kèmtheo B ảngchi ếttính khối lượng ) Bảngxác địnhgiátr ị khối lượngcôngvi ệchoàn thànhtheo h ợp đồng đề nghị thanhtoáncóxác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu Bảngxác địnhgiátr ị khối lượngcôngvi ệcphátsinhngoài h ợp đồng đề nghị thanhtoáncóxác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu",
+ "item": "II.9.3.3 - diện Nhà thầu, đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng) Bảng xác định giá trị khối lượng công việc hoàn thành theo hợp đồng đề nghị thanh toán có xác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu Bảng xác định giá trị khối lượng công việc phát sinh ngoài hợp đồng đề nghị thanh toán có xác nhận của đại diện Chủ đầu tư và đại diện Nhà thầu",
  "preparedBy": "Chủ đầu tư / Ban QLDA / Bên mời thầu",
  "checkedBy": "Tổ thẩm định đấu thầu / Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán",
  "status": "unchecked",
@@ -18607,7 +18607,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G11",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "item": "II.9.4 - Hồ sơ quyết toán Hợp đồng (quyết toán A-B) Văn bản đề nghị quyếttoán c ủaNhàth ầukèmtheoBiên b ảngiaonh ận hồ sơ (liệtkêchiti ếtdanh m ục hồ sơ )",
+ "item": "II.9.4 - Hồ sơ quyết toán Hợp đồng (quyết toán A-B) Văn bản đề nghị quyết toán của Nhà thầu kèm theo Biên bản giao nhận hồ sơ (liệt kê chi tiết danh mục hồ sơ)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
  "status": "unchecked",
@@ -18619,7 +18619,7 @@ const DATA_PAYLOAD = {
  "stage": "II",
  "gate": "G13",
  "group": "Công tác tạm ứng, thanh toán, quyết toán",
- "item": "II.9.4.1 - Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquyết toánkh ối lượnghoàn thành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )",
+ "item": "II.9.4.1 - Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bản nghiệm thu quyết toán khối lượng hoàn thành Hợp đồng đã được đại diện Nhà thầu và đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
  "status": "unchecked",
@@ -18703,7 +18703,7 @@ const DATA_PAYLOAD = {
  "stage": "III",
  "gate": "G12",
  "group": "Bàn giao công trình",
- "item": "III.1.1 - Danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế được Tư vấn giám sát xác nhận Biên bảnbàngiaogi ữaNhàth ầuvàChủ đầu tư về bản vẽ hoàncông,quytrình h ướng dẫn vậnhành,",
+ "item": "III.1.1 - Danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế được Tư vấn giám sát xác nhận Biên bản bàn giao giữa Nhà thầu và Chủ đầu tư về bản vẽ hoàn công, quy trình hướng dẫn vận hành,",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Chủ đầu tư",
  "status": "unchecked",
@@ -18715,7 +18715,7 @@ const DATA_PAYLOAD = {
  "stage": "III",
  "gate": "G16",
  "group": "Bàn giao công trình",
- "item": "III.1.2 - quytrình b ảotrìcông trình,danh m ụccácthi ết bị,ph ụ tùng, vật tư dự trữ thayth ế vàcáctàili ệu cần thiết khác có liên quan",
+ "item": "III.1.2 - quy trình bảo trì công trình, danh mục các thiết bị, phụ tùng, vật tư dự trữ thay thế và các tài liệu cần thiết khác có liên quan",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Chủ đầu tư",
  "status": "unchecked",
@@ -18835,7 +18835,7 @@ const DATA_PAYLOAD = {
  "stage": "III",
  "gate": "G15",
  "group": "Kiểm toán",
- "item": "III.3.4 - Báo cáo kết quả kiểm toán Báo cáo c ủaChủ đầu tư kèmcáctàili ệuliênquan về tìnhhìnhch ấphànhcácki ếnngh ị củaKi ểmtoán (nếu có)",
+ "item": "III.3.4 - Báo cáo kết quả kiểm toán Báo cáo của Chủ đầu tư kèm các tài liệu liên quan về tình hình chấp hành các kiến nghị của Kiểm toán (nếu có)",
  "preparedBy": "Chủ đầu tư / Ban QLDA",
  "checkedBy": "Cơ quan tài chính / Tổ thẩm tra quyết toán / Kiểm toán nếu có",
  "status": "unchecked",
