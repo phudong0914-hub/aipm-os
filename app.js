@@ -760,7 +760,29 @@ selectProjectType(projectType);
       }
     }
 
-    function renderAll(){ renderLegalBaseline(); renderHero(); renderLayers(); initFilters(); renderFiltered(); renderAccordion(); renderBpmn(); renderRaci(); renderChecks(); renderKpis(); renderRisks(); renderDigital(); renderLegal(); bindSticky(); }
+    function renderAll(){ 
+      renderLegalBaseline(); 
+      renderHero(); 
+      renderLayers(); 
+      initFilters(); 
+      
+      // Tối ưu hóa: Trì hoãn việc render các component nặng (dưới màn hình)
+      // Giúp trình duyệt rảnh tay để sơn (paint) giao diện màn hình chính ngay lập tức
+      setTimeout(() => {
+        requestAnimationFrame(() => {
+          renderFiltered(); 
+          renderAccordion(); 
+          renderBpmn(); 
+          renderRaci(); 
+          renderChecks(); 
+          renderKpis(); 
+          renderRisks(); 
+          renderDigital(); 
+          renderLegal(); 
+          bindSticky();
+        });
+      }, 50);
+    }
 
     function bindSticky(){
       const sections = $$('section[id]');

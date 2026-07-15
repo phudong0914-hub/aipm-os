@@ -950,12 +950,12 @@ const DATA_PAYLOAD = {
       "stage": "I",
       "stageName": "Giai đoạn chuẩn bị dự án",
       "group": "Quyết định đầu tư",
-      "stepName": "Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáonghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo k ếtqu ả thẩm định (gồm:BCNCKTvà b ản vẽ",
+      "stepName": "Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo k ếtqu ả thẩm định (gồm:BCNCKTvà b ản vẽ",
       "gate": "G5",
       "icon": "📌",
       "input": [],
       "tasks": [
-        "Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáonghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo k ếtqu ả thẩm định (gồm:BCNCKTvà b ản vẽ"
+        "Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo k ếtqu ả thẩm định (gồm:BCNCKTvà b ản vẽ"
       ],
       "output": [
         "Quyết định / văn bản phê duyệt tương ứng"
@@ -1508,12 +1508,12 @@ const DATA_PAYLOAD = {
       "stage": "I",
       "stageName": "Giai đoạn chuẩn bị dự án",
       "group": "Chủ trương đầu tư lần đầu",
-      "stepName": "Lập báo cáo đề xuất chủ trương đầu tư Hồ sơ trình thẩm định chủ trương đầu tư (gồm Tờ trình vàBáo cáonghiên cứu tiền khả thi/Báo cáo đề xuất chủ trương đầu tư )",
+      "stepName": "Lập báo cáo đề xuất chủ trương đầu tư Hồ sơ trình thẩm định chủ trương đầu tư (gồm Tờ trình vàBáo cáo nghiên cứu tiền khả thi/Báo cáo đề xuất chủ trương đầu tư )",
       "gate": "G1",
       "icon": "📄",
       "input": [],
       "tasks": [
-        "Lập báo cáo đề xuất chủ trương đầu tư Hồ sơ trình thẩm định chủ trương đầu tư (gồm Tờ trình vàBáo cáonghiên cứu tiền khả thi/Báo cáo đề xuất chủ trương đầu tư )"
+        "Lập báo cáo đề xuất chủ trương đầu tư Hồ sơ trình thẩm định chủ trương đầu tư (gồm Tờ trình vàBáo cáo nghiên cứu tiền khả thi/Báo cáo đề xuất chủ trương đầu tư )"
       ],
       "output": [
         "Báo cáo / kết quả xử lý tương ứng"
@@ -1776,12 +1776,12 @@ const DATA_PAYLOAD = {
       "stage": "I",
       "stageName": "Giai đoạn chuẩn bị dự án",
       "group": "Chủ trương đầu tư điều chỉnh (nếu có)",
-      "stepName": "Chủ trương đầu tư điều chỉnh (nếu có) Hồ sơ trình thẩm định chủ trương đầu tư điều chỉnh (gồm Tờ trình vàBáo cáonghiên cứu tiền khả thi/Báo cáo đề xuất chủ trương đầu tư điều chỉnh )",
+      "stepName": "Chủ trương đầu tư điều chỉnh (nếu có) Hồ sơ trình thẩm định chủ trương đầu tư điều chỉnh (gồm Tờ trình vàBáo cáo nghiên cứu tiền khả thi/Báo cáo đề xuất chủ trương đầu tư điều chỉnh )",
       "gate": "G1",
       "icon": "📄",
       "input": [],
       "tasks": [
-        "Chủ trương đầu tư điều chỉnh (nếu có) Hồ sơ trình thẩm định chủ trương đầu tư điều chỉnh (gồm Tờ trình vàBáo cáonghiên cứu tiền khả thi/Báo cáo đề xuất chủ trương đầu tư điều chỉnh )"
+        "Chủ trương đầu tư điều chỉnh (nếu có) Hồ sơ trình thẩm định chủ trương đầu tư điều chỉnh (gồm Tờ trình vàBáo cáo nghiên cứu tiền khả thi/Báo cáo đề xuất chủ trương đầu tư điều chỉnh )"
       ],
       "output": [
         "Báo cáo / kết quả xử lý tương ứng"
@@ -10105,12 +10105,12 @@ const DATA_PAYLOAD = {
       "stage": "II",
       "stageName": "Giai đoạn thực hiện dự án",
       "group": "Công tác tạm ứng, thanh toán, quyết toán",
-      "stepName": "Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquy ếttoánkh ối lượnghoànthành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )",
+      "stepName": "Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquyết toánkh ối lượnghoànthành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )",
       "gate": "G13",
       "icon": "🧾",
       "input": [],
       "tasks": [
-        "Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquy ếttoánkh ối lượnghoànthành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )"
+        "Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquyết toánkh ối lượnghoànthành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )"
       ],
       "output": [
         "Biên bản / tài liệu xác nhận"
@@ -10356,12 +10356,12 @@ const DATA_PAYLOAD = {
       "stage": "II",
       "stageName": "Giai đoạn thực hiện dự án",
       "group": "Công tác tạm ứng, thanh toán, quyết toán",
-      "stepName": "Báo cáo quyết toán theo niên độ hằng năm của Chủ đầu tư Xétduy ệtBáo cáoquy ếttoántheoniên độ hằng năm của bộ, cơ quantrung ươngho ặc cơ quan cấptrên của chủ đầu tư",
+      "stepName": "Báo cáo quyết toán theo niên độ hằng năm của Chủ đầu tư Xét duyệt Báo cáo quyết toán theo niên độ hằng năm của bộ, cơ quan trung ương hoặc cơ quan cấp trên của chủ đầu tư",
       "gate": "G14",
       "icon": "🧾",
       "input": [],
       "tasks": [
-        "Báo cáo quyết toán theo niên độ hằng năm của Chủ đầu tư Xétduy ệtBáo cáoquy ếttoántheoniên độ hằng năm của bộ, cơ quantrung ươngho ặc cơ quan cấptrên của chủ đầu tư"
+        "Báo cáo quyết toán theo niên độ hằng năm của Chủ đầu tư Xét duyệt Báo cáo quyết toán theo niên độ hằng năm của bộ, cơ quan trung ương hoặc cơ quan cấp trên của chủ đầu tư"
       ],
       "output": [
         "Báo cáo / kết quả xử lý tương ứng"
@@ -15919,7 +15919,7 @@ const DATA_PAYLOAD = {
       "stage": "I",
       "gate": "G5",
       "group": "Quyết định đầu tư",
-      "item": "I.11.8 - Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáonghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo k ếtqu ả thẩm định (gồm:BCNCKTvà b ản vẽ",
+      "item": "I.11.8 - Kết quả thẩm định của cơ quan chuyên môn trực thuộc Người quyết định đầu tư Báo cáo nghiên cứukhả thi đãch ỉnh sửa,hoànthi ệntheo k ếtqu ả thẩm định (gồm:BCNCKTvà b ản vẽ",
       "preparedBy": "Chủ đầu tư / Ban QLDA",
       "checkedBy": "Sở Xây dựng / Sở chuyên ngành quản lý công trình xây dựng",
       "status": "unchecked",
@@ -18619,7 +18619,7 @@ const DATA_PAYLOAD = {
       "stage": "II",
       "gate": "G13",
       "group": "Công tác tạm ứng, thanh toán, quyết toán",
-      "item": "II.9.4.1 - Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquy ếttoánkh ối lượnghoànthành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )",
+      "item": "II.9.4.1 - Hồ sơ hoàn thành công trình/gói thầu (đề cập tại Mục 8 Phần II trên đây ) Biên bảnnghi ệmthuquyết toánkh ối lượnghoànthành H ợp đồng đã được đạidi ệnNhàth ầuvà đại diện Tư vấn giám sát và đại diện Chủ đầu tư ký, đóng dấu (kèm theo Bảng chiết tính khối lượng )",
       "preparedBy": "Chủ đầu tư / Ban QLDA",
       "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
       "status": "unchecked",
@@ -18679,7 +18679,7 @@ const DATA_PAYLOAD = {
       "stage": "II",
       "gate": "G14",
       "group": "Công tác tạm ứng, thanh toán, quyết toán",
-      "item": "II.9.5.1 - Báo cáo quyết toán theo niên độ hằng năm của Chủ đầu tư Xétduy ệtBáo cáoquy ếttoántheoniên độ hằng năm của bộ, cơ quantrung ươngho ặc cơ quan cấptrên của chủ đầu tư",
+      "item": "II.9.5.1 - Báo cáo quyết toán theo niên độ hằng năm của Chủ đầu tư Xét duyệt Báo cáo quyết toán theo niên độ hằng năm của bộ, cơ quan trung ương hoặc cơ quan cấp trên của chủ đầu tư",
       "preparedBy": "Chủ đầu tư / Ban QLDA",
       "checkedBy": "Kho bạc Nhà nước / Cơ quan kiểm soát thanh toán / Cơ quan tài chính / Tổ thẩm tra quyết toán",
       "status": "unchecked",
